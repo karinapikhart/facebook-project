@@ -1,0 +1,1175 @@
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): graph.facebook.com
+DEBUG:urllib3.connectionpool:https://graph.facebook.com:443 "GET /v2.1/me?access_token=EAACEdEose0cBAMxDsLSL2m9Y0Tg0jLblfUIudeew7a6NMvY7MLZAUZADtKHZBVvdRFwYEmL1AKZC199rvuxFc3RWRibt7ZAfWzBgXc8HxdnZA0ZCvoZBZCWqMyb1wjaZC9hHZA9uaKq8WL12csruT5YmW1yJlZCPkdMLaCZBdEpHJiQS25i4CvYLvsqBDg3dAs4u4ZCM96UKgLcgEGmQZDZD HTTP/1.1" 200 50
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): graph.facebook.com
+DEBUG:urllib3.connectionpool:https://graph.facebook.com:443 "GET /v2.1/me/photos?fields=id,created_time,from,height,width,images,link,webp_images&access_token=EAACEdEose0cBAMxDsLSL2m9Y0Tg0jLblfUIudeew7a6NMvY7MLZAUZADtKHZBVvdRFwYEmL1AKZC199rvuxFc3RWRibt7ZAfWzBgXc8HxdnZA0ZCvoZBZCWqMyb1wjaZC9hHZA9uaKq8WL12csruT5YmW1yJlZCPkdMLaCZBdEpHJiQS25i4CvYLvsqBDg3dAs4u4ZCM96UKgLcgEGmQZDZD HTTP/1.1" 200 14738
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): graph.facebook.com
+DEBUG:urllib3.connectionpool:https://graph.facebook.com:443 "GET /v2.1/me/photos?fields=id,created_time,from,height,width,images,link,webp_images&after=TVRBeE1EQTVNamMzTnpnNE5EQTFOamc2TVRRM01UTTVOVGM0Tnpvek9UUXdPRGsyTkRBMk5EYzRNelk9&access_token=EAACEdEose0cBAMxDsLSL2m9Y0Tg0jLblfUIudeew7a6NMvY7MLZAUZADtKHZBVvdRFwYEmL1AKZC199rvuxFc3RWRibt7ZAfWzBgXc8HxdnZA0ZCvoZBZCWqMyb1wjaZC9hHZA9uaKq8WL12csruT5YmW1yJlZCPkdMLaCZBdEpHJiQS25i4CvYLvsqBDg3dAs4u4ZCM96UKgLcgEGmQZDZD HTTP/1.1" 200 14668
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): graph.facebook.com
+DEBUG:urllib3.connectionpool:https://graph.facebook.com:443 "GET /v2.1/me/photos?fields=id,created_time,from,height,width,images,link,webp_images&after=TVRBeE1EQTJORE0xTXpZAME1qUTJORGc2TVRRek9EWTNOamM1TkRvek9UUXdPRGsyTkRBMk5EYzRNelk9&access_token=EAACEdEose0cBAMxDsLSL2m9Y0Tg0jLblfUIudeew7a6NMvY7MLZAUZADtKHZBVvdRFwYEmL1AKZC199rvuxFc3RWRibt7ZAfWzBgXc8HxdnZA0ZCvoZBZCWqMyb1wjaZC9hHZA9uaKq8WL12csruT5YmW1yJlZCPkdMLaCZBdEpHJiQS25i4CvYLvsqBDg3dAs4u4ZCM96UKgLcgEGmQZDZD HTTP/1.1" 200 14844
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): graph.facebook.com
+DEBUG:urllib3.connectionpool:https://graph.facebook.com:443 "GET /v2.1/me/photos?fields=id,created_time,from,height,width,images,link,webp_images&after=TlRZAMk5EQTJNekV3TURVNE9qRXpOekE0T1RZAMU9UazZANemswTURnNU5qUXdOalEzT0RNMgZDZD&access_token=EAACEdEose0cBAMxDsLSL2m9Y0Tg0jLblfUIudeew7a6NMvY7MLZAUZADtKHZBVvdRFwYEmL1AKZC199rvuxFc3RWRibt7ZAfWzBgXc8HxdnZA0ZCvoZBZCWqMyb1wjaZC9hHZA9uaKq8WL12csruT5YmW1yJlZCPkdMLaCZBdEpHJiQS25i4CvYLvsqBDg3dAs4u4ZCM96UKgLcgEGmQZDZD HTTP/1.1" 200 11685
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): graph.facebook.com
+DEBUG:urllib3.connectionpool:https://graph.facebook.com:443 "GET /v2.1/me/photos?fields=id,created_time,from,height,width,images,link,webp_images&after=TnpRM05qRTNOall4TURVNE9qRXpOekE0T1RZAeU1EYzZANemswTURnNU5qUXdOalEzT0RNMgZDZD&access_token=EAACEdEose0cBAMxDsLSL2m9Y0Tg0jLblfUIudeew7a6NMvY7MLZAUZADtKHZBVvdRFwYEmL1AKZC199rvuxFc3RWRibt7ZAfWzBgXc8HxdnZA0ZCvoZBZCWqMyb1wjaZC9hHZA9uaKq8WL12csruT5YmW1yJlZCPkdMLaCZBdEpHJiQS25i4CvYLvsqBDg3dAs4u4ZCM96UKgLcgEGmQZDZD HTTP/1.1" 200 9548
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): graph.facebook.com
+DEBUG:urllib3.connectionpool:https://graph.facebook.com:443 "GET /v2.1/me/photos?fields=id,created_time,from,height,width,images,link,webp_images&after=TlRNeE1UazVNek0xTVRFNE9qRXpOekE0T1RVNE1ETTZANemswTURnNU5qUXdOalEzT0RNMgZDZD&access_token=EAACEdEose0cBAMxDsLSL2m9Y0Tg0jLblfUIudeew7a6NMvY7MLZAUZADtKHZBVvdRFwYEmL1AKZC199rvuxFc3RWRibt7ZAfWzBgXc8HxdnZA0ZCvoZBZCWqMyb1wjaZC9hHZA9uaKq8WL12csruT5YmW1yJlZCPkdMLaCZBdEpHJiQS25i4CvYLvsqBDg3dAs4u4ZCM96UKgLcgEGmQZDZD HTTP/1.1" 200 7454
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): graph.facebook.com
+DEBUG:urllib3.connectionpool:https://graph.facebook.com:443 "GET /v2.1/me/photos?fields=id,created_time,from,height,width,images,link,webp_images&after=TlRNeE1qQXlNekU1TVRNNE9qRXpOekE0T1RVMU5EZAzZANemswTURnNU5qUXdOalEzT0RNMgZDZD&access_token=EAACEdEose0cBAMxDsLSL2m9Y0Tg0jLblfUIudeew7a6NMvY7MLZAUZADtKHZBVvdRFwYEmL1AKZC199rvuxFc3RWRibt7ZAfWzBgXc8HxdnZA0ZCvoZBZCWqMyb1wjaZC9hHZA9uaKq8WL12csruT5YmW1yJlZCPkdMLaCZBdEpHJiQS25i4CvYLvsqBDg3dAs4u4ZCM96UKgLcgEGmQZDZD HTTP/1.1" 200 7388
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): graph.facebook.com
+DEBUG:urllib3.connectionpool:https://graph.facebook.com:443 "GET /v2.1/me/photos?fields=id,created_time,from,height,width,images,link,webp_images&after=TlRNeE1UWTNPRFl6TVRnNE9qRXpOekE0T1RVek1ETTZANemswTURnNU5qUXdOalEzT0RNMgZDZD&access_token=EAACEdEose0cBAMxDsLSL2m9Y0Tg0jLblfUIudeew7a6NMvY7MLZAUZADtKHZBVvdRFwYEmL1AKZC199rvuxFc3RWRibt7ZAfWzBgXc8HxdnZA0ZCvoZBZCWqMyb1wjaZC9hHZA9uaKq8WL12csruT5YmW1yJlZCPkdMLaCZBdEpHJiQS25i4CvYLvsqBDg3dAs4u4ZCM96UKgLcgEGmQZDZD HTTP/1.1" 200 7472
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): graph.facebook.com
+DEBUG:urllib3.connectionpool:https://graph.facebook.com:443 "GET /v2.1/me/photos?fields=id,created_time,from,height,width,images,link,webp_images&after=TlRNeE1UVTJNRFkyT0RJNE9qRXpOekE0T1RVd01qZAzZANemswTURnNU5qUXdOalEzT0RNMgZDZD&access_token=EAACEdEose0cBAMxDsLSL2m9Y0Tg0jLblfUIudeew7a6NMvY7MLZAUZADtKHZBVvdRFwYEmL1AKZC199rvuxFc3RWRibt7ZAfWzBgXc8HxdnZA0ZCvoZBZCWqMyb1wjaZC9hHZA9uaKq8WL12csruT5YmW1yJlZCPkdMLaCZBdEpHJiQS25i4CvYLvsqBDg3dAs4u4ZCM96UKgLcgEGmQZDZD HTTP/1.1" 200 7604
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): graph.facebook.com
+DEBUG:urllib3.connectionpool:https://graph.facebook.com:443 "GET /v2.1/me/photos?fields=id,created_time,from,height,width,images,link,webp_images&after=TlRNeE1UVTJNakkyTlRBNE9qRXpOekE0T1RRNE1qZAzZANemswTURnNU5qUXdOalEzT0RNMgZDZD&access_token=EAACEdEose0cBAMxDsLSL2m9Y0Tg0jLblfUIudeew7a6NMvY7MLZAUZADtKHZBVvdRFwYEmL1AKZC199rvuxFc3RWRibt7ZAfWzBgXc8HxdnZA0ZCvoZBZCWqMyb1wjaZC9hHZA9uaKq8WL12csruT5YmW1yJlZCPkdMLaCZBdEpHJiQS25i4CvYLvsqBDg3dAs4u4ZCM96UKgLcgEGmQZDZD HTTP/1.1" 200 7506
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): graph.facebook.com
+DEBUG:urllib3.connectionpool:https://graph.facebook.com:443 "GET /v2.1/me/photos?fields=id,created_time,from,height,width,images,link,webp_images&after=TlRZAME16TXpPVGc0TURBNE9qRXpOekEwTmpJM09EVTZANemswTURnNU5qUXdOalEzT0RNMgZDZD&access_token=EAACEdEose0cBAMxDsLSL2m9Y0Tg0jLblfUIudeew7a6NMvY7MLZAUZADtKHZBVvdRFwYEmL1AKZC199rvuxFc3RWRibt7ZAfWzBgXc8HxdnZA0ZCvoZBZCWqMyb1wjaZC9hHZA9uaKq8WL12csruT5YmW1yJlZCPkdMLaCZBdEpHJiQS25i4CvYLvsqBDg3dAs4u4ZCM96UKgLcgEGmQZDZD HTTP/1.1" 200 11705
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): graph.facebook.com
+INFO:root:hello world!
+2018-06-03 15:06:52,692 hello world!
+2018-06-03 15:09:27,064 10: hello world!
+2018-06-03 15:11:51,846 INFO: hello world!
+2018-06-03 15:15:10,803 INFO: hello world!
+2018-06-03 15:15:11,929 INFO: received ACCCESS_TOKEN from user
+2018-06-03 15:15:11,980 DEBUG: Starting new HTTPS connection (1): graph.facebook.com
+2018-06-03 15:15:12,222 DEBUG: https://graph.facebook.com:443 "GET /v2.1/me?access_token=EAACEdEose0cBAMxDsLSL2m9Y0Tg0jLblfUIudeew7a6NMvY7MLZAUZADtKHZBVvdRFwYEmL1AKZC199rvuxFc3RWRibt7ZAfWzBgXc8HxdnZA0ZCvoZBZCWqMyb1wjaZC9hHZA9uaKq8WL12csruT5YmW1yJlZCPkdMLaCZBdEpHJiQS25i4CvYLvsqBDg3dAs4u4ZCM96UKgLcgEGmQZDZD HTTP/1.1" 200 50
+2018-06-03 15:15:12,226 INFO: fetching all photos from user
+2018-06-03 15:15:12,229 DEBUG: Starting new HTTPS connection (1): graph.facebook.com
+2018-06-03 15:15:12,965 DEBUG: https://graph.facebook.com:443 "GET /v2.1/me/photos?fields=id,created_time,from,height,width,images,link,webp_images&access_token=EAACEdEose0cBAMxDsLSL2m9Y0Tg0jLblfUIudeew7a6NMvY7MLZAUZADtKHZBVvdRFwYEmL1AKZC199rvuxFc3RWRibt7ZAfWzBgXc8HxdnZA0ZCvoZBZCWqMyb1wjaZC9hHZA9uaKq8WL12csruT5YmW1yJlZCPkdMLaCZBdEpHJiQS25i4CvYLvsqBDg3dAs4u4ZCM96UKgLcgEGmQZDZD HTTP/1.1" 200 14739
+2018-06-03 15:15:13,009 DEBUG: Starting new HTTPS connection (1): graph.facebook.com
+2018-06-03 15:15:13,478 DEBUG: https://graph.facebook.com:443 "GET /v2.1/me/photos?fields=id,created_time,from,height,width,images,link,webp_images&after=TVRBeE1EQTVNamMzTnpnNE5EQTFOamc2TVRRM01UTTVOVGM0Tnpvek9UUXdPRGsyTkRBMk5EYzRNelk9&access_token=EAACEdEose0cBAMxDsLSL2m9Y0Tg0jLblfUIudeew7a6NMvY7MLZAUZADtKHZBVvdRFwYEmL1AKZC199rvuxFc3RWRibt7ZAfWzBgXc8HxdnZA0ZCvoZBZCWqMyb1wjaZC9hHZA9uaKq8WL12csruT5YmW1yJlZCPkdMLaCZBdEpHJiQS25i4CvYLvsqBDg3dAs4u4ZCM96UKgLcgEGmQZDZD HTTP/1.1" 200 14668
+2018-06-03 15:15:13,519 DEBUG: Starting new HTTPS connection (1): graph.facebook.com
+2018-06-03 15:15:14,253 DEBUG: https://graph.facebook.com:443 "GET /v2.1/me/photos?fields=id,created_time,from,height,width,images,link,webp_images&after=TVRBeE1EQTJORE0xTXpZAME1qUTJORGc2TVRRek9EWTNOamM1TkRvek9UUXdPRGsyTkRBMk5EYzRNelk9&access_token=EAACEdEose0cBAMxDsLSL2m9Y0Tg0jLblfUIudeew7a6NMvY7MLZAUZADtKHZBVvdRFwYEmL1AKZC199rvuxFc3RWRibt7ZAfWzBgXc8HxdnZA0ZCvoZBZCWqMyb1wjaZC9hHZA9uaKq8WL12csruT5YmW1yJlZCPkdMLaCZBdEpHJiQS25i4CvYLvsqBDg3dAs4u4ZCM96UKgLcgEGmQZDZD HTTP/1.1" 200 14844
+2018-06-03 15:15:14,292 DEBUG: Starting new HTTPS connection (1): graph.facebook.com
+2018-06-03 15:15:14,615 DEBUG: https://graph.facebook.com:443 "GET /v2.1/me/photos?fields=id,created_time,from,height,width,images,link,webp_images&after=TlRZAMk5EQTJNekV3TURVNE9qRXpOekE0T1RZAMU9UazZANemswTURnNU5qUXdOalEzT0RNMgZDZD&access_token=EAACEdEose0cBAMxDsLSL2m9Y0Tg0jLblfUIudeew7a6NMvY7MLZAUZADtKHZBVvdRFwYEmL1AKZC199rvuxFc3RWRibt7ZAfWzBgXc8HxdnZA0ZCvoZBZCWqMyb1wjaZC9hHZA9uaKq8WL12csruT5YmW1yJlZCPkdMLaCZBdEpHJiQS25i4CvYLvsqBDg3dAs4u4ZCM96UKgLcgEGmQZDZD HTTP/1.1" 200 11685
+2018-06-03 15:15:14,630 DEBUG: Starting new HTTPS connection (1): graph.facebook.com
+2018-06-03 15:15:14,970 DEBUG: https://graph.facebook.com:443 "GET /v2.1/me/photos?fields=id,created_time,from,height,width,images,link,webp_images&after=TnpRM05qRTNOall4TURVNE9qRXpOekE0T1RZAeU1EYzZANemswTURnNU5qUXdOalEzT0RNMgZDZD&access_token=EAACEdEose0cBAMxDsLSL2m9Y0Tg0jLblfUIudeew7a6NMvY7MLZAUZADtKHZBVvdRFwYEmL1AKZC199rvuxFc3RWRibt7ZAfWzBgXc8HxdnZA0ZCvoZBZCWqMyb1wjaZC9hHZA9uaKq8WL12csruT5YmW1yJlZCPkdMLaCZBdEpHJiQS25i4CvYLvsqBDg3dAs4u4ZCM96UKgLcgEGmQZDZD HTTP/1.1" 200 9549
+2018-06-03 15:15:14,985 DEBUG: Starting new HTTPS connection (1): graph.facebook.com
+2018-06-03 15:15:15,298 DEBUG: https://graph.facebook.com:443 "GET /v2.1/me/photos?fields=id,created_time,from,height,width,images,link,webp_images&after=TlRNeE1UazVNek0xTVRFNE9qRXpOekE0T1RVNE1ETTZANemswTURnNU5qUXdOalEzT0RNMgZDZD&access_token=EAACEdEose0cBAMxDsLSL2m9Y0Tg0jLblfUIudeew7a6NMvY7MLZAUZADtKHZBVvdRFwYEmL1AKZC199rvuxFc3RWRibt7ZAfWzBgXc8HxdnZA0ZCvoZBZCWqMyb1wjaZC9hHZA9uaKq8WL12csruT5YmW1yJlZCPkdMLaCZBdEpHJiQS25i4CvYLvsqBDg3dAs4u4ZCM96UKgLcgEGmQZDZD HTTP/1.1" 200 7454
+2018-06-03 15:15:15,306 DEBUG: Starting new HTTPS connection (1): graph.facebook.com
+2018-06-03 15:15:15,648 DEBUG: https://graph.facebook.com:443 "GET /v2.1/me/photos?fields=id,created_time,from,height,width,images,link,webp_images&after=TlRNeE1qQXlNekU1TVRNNE9qRXpOekE0T1RVMU5EZAzZANemswTURnNU5qUXdOalEzT0RNMgZDZD&access_token=EAACEdEose0cBAMxDsLSL2m9Y0Tg0jLblfUIudeew7a6NMvY7MLZAUZADtKHZBVvdRFwYEmL1AKZC199rvuxFc3RWRibt7ZAfWzBgXc8HxdnZA0ZCvoZBZCWqMyb1wjaZC9hHZA9uaKq8WL12csruT5YmW1yJlZCPkdMLaCZBdEpHJiQS25i4CvYLvsqBDg3dAs4u4ZCM96UKgLcgEGmQZDZD HTTP/1.1" 200 7388
+2018-06-03 15:15:15,664 DEBUG: Starting new HTTPS connection (1): graph.facebook.com
+2018-06-03 15:15:15,988 DEBUG: https://graph.facebook.com:443 "GET /v2.1/me/photos?fields=id,created_time,from,height,width,images,link,webp_images&after=TlRNeE1UWTNPRFl6TVRnNE9qRXpOekE0T1RVek1ETTZANemswTURnNU5qUXdOalEzT0RNMgZDZD&access_token=EAACEdEose0cBAMxDsLSL2m9Y0Tg0jLblfUIudeew7a6NMvY7MLZAUZADtKHZBVvdRFwYEmL1AKZC199rvuxFc3RWRibt7ZAfWzBgXc8HxdnZA0ZCvoZBZCWqMyb1wjaZC9hHZA9uaKq8WL12csruT5YmW1yJlZCPkdMLaCZBdEpHJiQS25i4CvYLvsqBDg3dAs4u4ZCM96UKgLcgEGmQZDZD HTTP/1.1" 200 7472
+2018-06-03 15:15:15,998 DEBUG: Starting new HTTPS connection (1): graph.facebook.com
+2018-06-03 15:15:16,324 DEBUG: https://graph.facebook.com:443 "GET /v2.1/me/photos?fields=id,created_time,from,height,width,images,link,webp_images&after=TlRNeE1UVTJNRFkyT0RJNE9qRXpOekE0T1RVd01qZAzZANemswTURnNU5qUXdOalEzT0RNMgZDZD&access_token=EAACEdEose0cBAMxDsLSL2m9Y0Tg0jLblfUIudeew7a6NMvY7MLZAUZADtKHZBVvdRFwYEmL1AKZC199rvuxFc3RWRibt7ZAfWzBgXc8HxdnZA0ZCvoZBZCWqMyb1wjaZC9hHZA9uaKq8WL12csruT5YmW1yJlZCPkdMLaCZBdEpHJiQS25i4CvYLvsqBDg3dAs4u4ZCM96UKgLcgEGmQZDZD HTTP/1.1" 200 7604
+2018-06-03 15:15:16,336 DEBUG: Starting new HTTPS connection (1): graph.facebook.com
+2018-06-03 15:15:16,683 DEBUG: https://graph.facebook.com:443 "GET /v2.1/me/photos?fields=id,created_time,from,height,width,images,link,webp_images&after=TlRNeE1UVTJNakkyTlRBNE9qRXpOekE0T1RRNE1qZAzZANemswTURnNU5qUXdOalEzT0RNMgZDZD&access_token=EAACEdEose0cBAMxDsLSL2m9Y0Tg0jLblfUIudeew7a6NMvY7MLZAUZADtKHZBVvdRFwYEmL1AKZC199rvuxFc3RWRibt7ZAfWzBgXc8HxdnZA0ZCvoZBZCWqMyb1wjaZC9hHZA9uaKq8WL12csruT5YmW1yJlZCPkdMLaCZBdEpHJiQS25i4CvYLvsqBDg3dAs4u4ZCM96UKgLcgEGmQZDZD HTTP/1.1" 200 7506
+2018-06-03 15:15:16,692 DEBUG: Starting new HTTPS connection (1): graph.facebook.com
+2018-06-03 15:15:18,098 DEBUG: https://graph.facebook.com:443 "GET /v2.1/me/photos?fields=id,created_time,from,height,width,images,link,webp_images&after=TlRZAME16TXpPVGc0TURBNE9qRXpOekEwTmpJM09EVTZANemswTURnNU5qUXdOalEzT0RNMgZDZD&access_token=EAACEdEose0cBAMxDsLSL2m9Y0Tg0jLblfUIudeew7a6NMvY7MLZAUZADtKHZBVvdRFwYEmL1AKZC199rvuxFc3RWRibt7ZAfWzBgXc8HxdnZA0ZCvoZBZCWqMyb1wjaZC9hHZA9uaKq8WL12csruT5YmW1yJlZCPkdMLaCZBdEpHJiQS25i4CvYLvsqBDg3dAs4u4ZCM96UKgLcgEGmQZDZD HTTP/1.1" 200 11705
+2018-06-03 15:15:18,108 DEBUG: Starting new HTTPS connection (1): graph.facebook.com
+2018-06-03 15:15:18,802 DEBUG: https://graph.facebook.com:443 "GET /v2.1/me/photos?fields=id,created_time,from,height,width,images,link,webp_images&after=TlRZAd01EUTVORFEwTWpZANE9qRXlOVFUwTURVd01qTTZANemswTURnNU5qUXdOalEzT0RNMgZDZD&access_token=EAACEdEose0cBAMxDsLSL2m9Y0Tg0jLblfUIudeew7a6NMvY7MLZAUZADtKHZBVvdRFwYEmL1AKZC199rvuxFc3RWRibt7ZAfWzBgXc8HxdnZA0ZCvoZBZCWqMyb1wjaZC9hHZA9uaKq8WL12csruT5YmW1yJlZCPkdMLaCZBdEpHJiQS25i4CvYLvsqBDg3dAs4u4ZCM96UKgLcgEGmQZDZD HTTP/1.1" 200 8009
+2018-06-03 15:15:18,812 DEBUG: Starting new HTTPS connection (1): graph.facebook.com
+2018-06-03 15:15:19,144 DEBUG: https://graph.facebook.com:443 "GET /v2.1/me/photos?fields=id,created_time,from,height,width,images,link,webp_images&after=TlRBNU1ERXpOelkxTVRjNE9qRXhORGMzTkRFNE5qYzZANemswTURnNU5qUXdOalEzT0RNMgZDZD&access_token=EAACEdEose0cBAMxDsLSL2m9Y0Tg0jLblfUIudeew7a6NMvY7MLZAUZADtKHZBVvdRFwYEmL1AKZC199rvuxFc3RWRibt7ZAfWzBgXc8HxdnZA0ZCvoZBZCWqMyb1wjaZC9hHZA9uaKq8WL12csruT5YmW1yJlZCPkdMLaCZBdEpHJiQS25i4CvYLvsqBDg3dAs4u4ZCM96UKgLcgEGmQZDZD HTTP/1.1" 200 5115
+2018-06-03 15:15:19,151 INFO: fetching complete. fetched 316 photos
+2018-06-03 15:26:50,326 INFO: hello world!
+2018-06-03 15:26:57,830 INFO: received ACCCESS_TOKEN from user
+2018-06-03 15:26:57,892 DEBUG: Starting new HTTPS connection (1): graph.facebook.com
+2018-06-03 15:26:58,142 DEBUG: https://graph.facebook.com:443 "GET /v2.1/me?access_token=EAACEdEose0cBAMxDsLSL2m9Y0Tg0jLblfUIudeew7a6NMvY7MLZAUZADtKHZBVvdRFwYEmL1AKZC199rvuxFc3RWRibt7ZAfWzBgXc8HxdnZA0ZCvoZBZCWqMyb1wjaZC9hHZA9uaKq8WL12csruT5YmW1yJlZCPkdMLaCZBdEpHJiQS25i4CvYLvsqBDg3dAs4u4ZCM96UKgLcgEGmQZDZD HTTP/1.1" 200 50
+2018-06-03 15:26:58,150 INFO: fetching all photos from user
+2018-06-03 15:26:58,154 DEBUG: Starting new HTTPS connection (1): graph.facebook.com
+2018-06-03 15:26:58,928 DEBUG: https://graph.facebook.com:443 "GET /v2.1/me/photos?fields=id,created_time,from,height,width,images,link,webp_images&access_token=EAACEdEose0cBAMxDsLSL2m9Y0Tg0jLblfUIudeew7a6NMvY7MLZAUZADtKHZBVvdRFwYEmL1AKZC199rvuxFc3RWRibt7ZAfWzBgXc8HxdnZA0ZCvoZBZCWqMyb1wjaZC9hHZA9uaKq8WL12csruT5YmW1yJlZCPkdMLaCZBdEpHJiQS25i4CvYLvsqBDg3dAs4u4ZCM96UKgLcgEGmQZDZD HTTP/1.1" 200 14739
+2018-06-03 15:26:58,968 DEBUG: Starting new HTTPS connection (1): graph.facebook.com
+2018-06-03 15:26:59,442 DEBUG: https://graph.facebook.com:443 "GET /v2.1/me/photos?fields=id,created_time,from,height,width,images,link,webp_images&after=TVRBeE1EQTVNamMzTnpnNE5EQTFOamc2TVRRM01UTTVOVGM0Tnpvek9UUXdPRGsyTkRBMk5EYzRNelk9&access_token=EAACEdEose0cBAMxDsLSL2m9Y0Tg0jLblfUIudeew7a6NMvY7MLZAUZADtKHZBVvdRFwYEmL1AKZC199rvuxFc3RWRibt7ZAfWzBgXc8HxdnZA0ZCvoZBZCWqMyb1wjaZC9hHZA9uaKq8WL12csruT5YmW1yJlZCPkdMLaCZBdEpHJiQS25i4CvYLvsqBDg3dAs4u4ZCM96UKgLcgEGmQZDZD HTTP/1.1" 200 14668
+2018-06-03 15:26:59,484 DEBUG: Starting new HTTPS connection (1): graph.facebook.com
+2018-06-03 15:27:00,371 DEBUG: https://graph.facebook.com:443 "GET /v2.1/me/photos?fields=id,created_time,from,height,width,images,link,webp_images&after=TVRBeE1EQTJORE0xTXpZAME1qUTJORGc2TVRRek9EWTNOamM1TkRvek9UUXdPRGsyTkRBMk5EYzRNelk9&access_token=EAACEdEose0cBAMxDsLSL2m9Y0Tg0jLblfUIudeew7a6NMvY7MLZAUZADtKHZBVvdRFwYEmL1AKZC199rvuxFc3RWRibt7ZAfWzBgXc8HxdnZA0ZCvoZBZCWqMyb1wjaZC9hHZA9uaKq8WL12csruT5YmW1yJlZCPkdMLaCZBdEpHJiQS25i4CvYLvsqBDg3dAs4u4ZCM96UKgLcgEGmQZDZD HTTP/1.1" 200 14844
+2018-06-03 15:27:00,412 DEBUG: Starting new HTTPS connection (1): graph.facebook.com
+2018-06-03 15:27:00,736 DEBUG: https://graph.facebook.com:443 "GET /v2.1/me/photos?fields=id,created_time,from,height,width,images,link,webp_images&after=TlRZAMk5EQTJNekV3TURVNE9qRXpOekE0T1RZAMU9UazZANemswTURnNU5qUXdOalEzT0RNMgZDZD&access_token=EAACEdEose0cBAMxDsLSL2m9Y0Tg0jLblfUIudeew7a6NMvY7MLZAUZADtKHZBVvdRFwYEmL1AKZC199rvuxFc3RWRibt7ZAfWzBgXc8HxdnZA0ZCvoZBZCWqMyb1wjaZC9hHZA9uaKq8WL12csruT5YmW1yJlZCPkdMLaCZBdEpHJiQS25i4CvYLvsqBDg3dAs4u4ZCM96UKgLcgEGmQZDZD HTTP/1.1" 200 11685
+2018-06-03 15:27:00,752 DEBUG: Starting new HTTPS connection (1): graph.facebook.com
+2018-06-03 15:27:01,111 DEBUG: https://graph.facebook.com:443 "GET /v2.1/me/photos?fields=id,created_time,from,height,width,images,link,webp_images&after=TnpRM05qRTNOall4TURVNE9qRXpOekE0T1RZAeU1EYzZANemswTURnNU5qUXdOalEzT0RNMgZDZD&access_token=EAACEdEose0cBAMxDsLSL2m9Y0Tg0jLblfUIudeew7a6NMvY7MLZAUZADtKHZBVvdRFwYEmL1AKZC199rvuxFc3RWRibt7ZAfWzBgXc8HxdnZA0ZCvoZBZCWqMyb1wjaZC9hHZA9uaKq8WL12csruT5YmW1yJlZCPkdMLaCZBdEpHJiQS25i4CvYLvsqBDg3dAs4u4ZCM96UKgLcgEGmQZDZD HTTP/1.1" 200 9549
+2018-06-03 15:27:01,135 DEBUG: Starting new HTTPS connection (1): graph.facebook.com
+2018-06-03 15:27:01,471 DEBUG: https://graph.facebook.com:443 "GET /v2.1/me/photos?fields=id,created_time,from,height,width,images,link,webp_images&after=TlRNeE1UazVNek0xTVRFNE9qRXpOekE0T1RVNE1ETTZANemswTURnNU5qUXdOalEzT0RNMgZDZD&access_token=EAACEdEose0cBAMxDsLSL2m9Y0Tg0jLblfUIudeew7a6NMvY7MLZAUZADtKHZBVvdRFwYEmL1AKZC199rvuxFc3RWRibt7ZAfWzBgXc8HxdnZA0ZCvoZBZCWqMyb1wjaZC9hHZA9uaKq8WL12csruT5YmW1yJlZCPkdMLaCZBdEpHJiQS25i4CvYLvsqBDg3dAs4u4ZCM96UKgLcgEGmQZDZD HTTP/1.1" 200 7454
+2018-06-03 15:27:01,482 DEBUG: Starting new HTTPS connection (1): graph.facebook.com
+2018-06-03 15:27:01,818 DEBUG: https://graph.facebook.com:443 "GET /v2.1/me/photos?fields=id,created_time,from,height,width,images,link,webp_images&after=TlRNeE1qQXlNekU1TVRNNE9qRXpOekE0T1RVMU5EZAzZANemswTURnNU5qUXdOalEzT0RNMgZDZD&access_token=EAACEdEose0cBAMxDsLSL2m9Y0Tg0jLblfUIudeew7a6NMvY7MLZAUZADtKHZBVvdRFwYEmL1AKZC199rvuxFc3RWRibt7ZAfWzBgXc8HxdnZA0ZCvoZBZCWqMyb1wjaZC9hHZA9uaKq8WL12csruT5YmW1yJlZCPkdMLaCZBdEpHJiQS25i4CvYLvsqBDg3dAs4u4ZCM96UKgLcgEGmQZDZD HTTP/1.1" 200 7388
+2018-06-03 15:27:01,830 DEBUG: Starting new HTTPS connection (1): graph.facebook.com
+2018-06-03 15:27:02,147 DEBUG: https://graph.facebook.com:443 "GET /v2.1/me/photos?fields=id,created_time,from,height,width,images,link,webp_images&after=TlRNeE1UWTNPRFl6TVRnNE9qRXpOekE0T1RVek1ETTZANemswTURnNU5qUXdOalEzT0RNMgZDZD&access_token=EAACEdEose0cBAMxDsLSL2m9Y0Tg0jLblfUIudeew7a6NMvY7MLZAUZADtKHZBVvdRFwYEmL1AKZC199rvuxFc3RWRibt7ZAfWzBgXc8HxdnZA0ZCvoZBZCWqMyb1wjaZC9hHZA9uaKq8WL12csruT5YmW1yJlZCPkdMLaCZBdEpHJiQS25i4CvYLvsqBDg3dAs4u4ZCM96UKgLcgEGmQZDZD HTTP/1.1" 200 7472
+2018-06-03 15:27:02,158 DEBUG: Starting new HTTPS connection (1): graph.facebook.com
+2018-06-03 15:27:02,474 DEBUG: https://graph.facebook.com:443 "GET /v2.1/me/photos?fields=id,created_time,from,height,width,images,link,webp_images&after=TlRNeE1UVTJNRFkyT0RJNE9qRXpOekE0T1RVd01qZAzZANemswTURnNU5qUXdOalEzT0RNMgZDZD&access_token=EAACEdEose0cBAMxDsLSL2m9Y0Tg0jLblfUIudeew7a6NMvY7MLZAUZADtKHZBVvdRFwYEmL1AKZC199rvuxFc3RWRibt7ZAfWzBgXc8HxdnZA0ZCvoZBZCWqMyb1wjaZC9hHZA9uaKq8WL12csruT5YmW1yJlZCPkdMLaCZBdEpHJiQS25i4CvYLvsqBDg3dAs4u4ZCM96UKgLcgEGmQZDZD HTTP/1.1" 200 7604
+2018-06-03 15:27:02,488 DEBUG: Starting new HTTPS connection (1): graph.facebook.com
+2018-06-03 15:27:02,846 DEBUG: https://graph.facebook.com:443 "GET /v2.1/me/photos?fields=id,created_time,from,height,width,images,link,webp_images&after=TlRNeE1UVTJNakkyTlRBNE9qRXpOekE0T1RRNE1qZAzZANemswTURnNU5qUXdOalEzT0RNMgZDZD&access_token=EAACEdEose0cBAMxDsLSL2m9Y0Tg0jLblfUIudeew7a6NMvY7MLZAUZADtKHZBVvdRFwYEmL1AKZC199rvuxFc3RWRibt7ZAfWzBgXc8HxdnZA0ZCvoZBZCWqMyb1wjaZC9hHZA9uaKq8WL12csruT5YmW1yJlZCPkdMLaCZBdEpHJiQS25i4CvYLvsqBDg3dAs4u4ZCM96UKgLcgEGmQZDZD HTTP/1.1" 200 7506
+2018-06-03 15:27:02,858 DEBUG: Starting new HTTPS connection (1): graph.facebook.com
+2018-06-03 15:27:04,250 DEBUG: https://graph.facebook.com:443 "GET /v2.1/me/photos?fields=id,created_time,from,height,width,images,link,webp_images&after=TlRZAME16TXpPVGc0TURBNE9qRXpOekEwTmpJM09EVTZANemswTURnNU5qUXdOalEzT0RNMgZDZD&access_token=EAACEdEose0cBAMxDsLSL2m9Y0Tg0jLblfUIudeew7a6NMvY7MLZAUZADtKHZBVvdRFwYEmL1AKZC199rvuxFc3RWRibt7ZAfWzBgXc8HxdnZA0ZCvoZBZCWqMyb1wjaZC9hHZA9uaKq8WL12csruT5YmW1yJlZCPkdMLaCZBdEpHJiQS25i4CvYLvsqBDg3dAs4u4ZCM96UKgLcgEGmQZDZD HTTP/1.1" 200 11705
+2018-06-03 15:27:04,264 DEBUG: Starting new HTTPS connection (1): graph.facebook.com
+2018-06-03 15:27:05,072 DEBUG: https://graph.facebook.com:443 "GET /v2.1/me/photos?fields=id,created_time,from,height,width,images,link,webp_images&after=TlRZAd01EUTVORFEwTWpZANE9qRXlOVFUwTURVd01qTTZANemswTURnNU5qUXdOalEzT0RNMgZDZD&access_token=EAACEdEose0cBAMxDsLSL2m9Y0Tg0jLblfUIudeew7a6NMvY7MLZAUZADtKHZBVvdRFwYEmL1AKZC199rvuxFc3RWRibt7ZAfWzBgXc8HxdnZA0ZCvoZBZCWqMyb1wjaZC9hHZA9uaKq8WL12csruT5YmW1yJlZCPkdMLaCZBdEpHJiQS25i4CvYLvsqBDg3dAs4u4ZCM96UKgLcgEGmQZDZD HTTP/1.1" 200 8009
+2018-06-03 15:27:05,084 DEBUG: Starting new HTTPS connection (1): graph.facebook.com
+2018-06-03 15:27:05,393 DEBUG: https://graph.facebook.com:443 "GET /v2.1/me/photos?fields=id,created_time,from,height,width,images,link,webp_images&after=TlRBNU1ERXpOelkxTVRjNE9qRXhORGMzTkRFNE5qYzZANemswTURnNU5qUXdOalEzT0RNMgZDZD&access_token=EAACEdEose0cBAMxDsLSL2m9Y0Tg0jLblfUIudeew7a6NMvY7MLZAUZADtKHZBVvdRFwYEmL1AKZC199rvuxFc3RWRibt7ZAfWzBgXc8HxdnZA0ZCvoZBZCWqMyb1wjaZC9hHZA9uaKq8WL12csruT5YmW1yJlZCPkdMLaCZBdEpHJiQS25i4CvYLvsqBDg3dAs4u4ZCM96UKgLcgEGmQZDZD HTTP/1.1" 200 5115
+2018-06-03 15:27:05,400 INFO: fetching complete. found 316 photos
+2018-06-03 15:27:05,401 INFO: saving all photos...
+2018-06-03 15:27:05,437 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:27:05,704 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t31.0-8/28424457_10101530217309048_4062551969051929491_o.jpg?_nc_cat=0&oh=41fac93e11b84c2271e6cf37c2407f0c&oe=5B85EC6B HTTP/1.1" 200 194977
+2018-06-03 15:27:48,212 INFO: hello world!
+2018-06-03 15:28:00,250 INFO: received ACCCESS_TOKEN from user
+2018-06-03 15:28:00,340 DEBUG: Starting new HTTPS connection (1): graph.facebook.com
+2018-06-03 15:28:00,590 DEBUG: https://graph.facebook.com:443 "GET /v2.1/me?access_token=EAACEdEose0cBAMxDsLSL2m9Y0Tg0jLblfUIudeew7a6NMvY7MLZAUZADtKHZBVvdRFwYEmL1AKZC199rvuxFc3RWRibt7ZAfWzBgXc8HxdnZA0ZCvoZBZCWqMyb1wjaZC9hHZA9uaKq8WL12csruT5YmW1yJlZCPkdMLaCZBdEpHJiQS25i4CvYLvsqBDg3dAs4u4ZCM96UKgLcgEGmQZDZD HTTP/1.1" 200 50
+2018-06-03 15:28:00,595 INFO: fetching all photos from user
+2018-06-03 15:28:00,597 DEBUG: Starting new HTTPS connection (1): graph.facebook.com
+2018-06-03 15:28:01,288 DEBUG: https://graph.facebook.com:443 "GET /v2.1/me/photos?fields=id,created_time,from,height,width,images,link,webp_images&access_token=EAACEdEose0cBAMxDsLSL2m9Y0Tg0jLblfUIudeew7a6NMvY7MLZAUZADtKHZBVvdRFwYEmL1AKZC199rvuxFc3RWRibt7ZAfWzBgXc8HxdnZA0ZCvoZBZCWqMyb1wjaZC9hHZA9uaKq8WL12csruT5YmW1yJlZCPkdMLaCZBdEpHJiQS25i4CvYLvsqBDg3dAs4u4ZCM96UKgLcgEGmQZDZD HTTP/1.1" 200 14739
+2018-06-03 15:28:01,332 DEBUG: Starting new HTTPS connection (1): graph.facebook.com
+2018-06-03 15:28:01,741 DEBUG: https://graph.facebook.com:443 "GET /v2.1/me/photos?fields=id,created_time,from,height,width,images,link,webp_images&after=TVRBeE1EQTVNamMzTnpnNE5EQTFOamc2TVRRM01UTTVOVGM0Tnpvek9UUXdPRGsyTkRBMk5EYzRNelk9&access_token=EAACEdEose0cBAMxDsLSL2m9Y0Tg0jLblfUIudeew7a6NMvY7MLZAUZADtKHZBVvdRFwYEmL1AKZC199rvuxFc3RWRibt7ZAfWzBgXc8HxdnZA0ZCvoZBZCWqMyb1wjaZC9hHZA9uaKq8WL12csruT5YmW1yJlZCPkdMLaCZBdEpHJiQS25i4CvYLvsqBDg3dAs4u4ZCM96UKgLcgEGmQZDZD HTTP/1.1" 200 14668
+2018-06-03 15:28:01,800 DEBUG: Starting new HTTPS connection (1): graph.facebook.com
+2018-06-03 15:28:02,534 DEBUG: https://graph.facebook.com:443 "GET /v2.1/me/photos?fields=id,created_time,from,height,width,images,link,webp_images&after=TVRBeE1EQTJORE0xTXpZAME1qUTJORGc2TVRRek9EWTNOamM1TkRvek9UUXdPRGsyTkRBMk5EYzRNelk9&access_token=EAACEdEose0cBAMxDsLSL2m9Y0Tg0jLblfUIudeew7a6NMvY7MLZAUZADtKHZBVvdRFwYEmL1AKZC199rvuxFc3RWRibt7ZAfWzBgXc8HxdnZA0ZCvoZBZCWqMyb1wjaZC9hHZA9uaKq8WL12csruT5YmW1yJlZCPkdMLaCZBdEpHJiQS25i4CvYLvsqBDg3dAs4u4ZCM96UKgLcgEGmQZDZD HTTP/1.1" 200 14844
+2018-06-03 15:28:02,584 DEBUG: Starting new HTTPS connection (1): graph.facebook.com
+2018-06-03 15:28:02,911 DEBUG: https://graph.facebook.com:443 "GET /v2.1/me/photos?fields=id,created_time,from,height,width,images,link,webp_images&after=TlRZAMk5EQTJNekV3TURVNE9qRXpOekE0T1RZAMU9UazZANemswTURnNU5qUXdOalEzT0RNMgZDZD&access_token=EAACEdEose0cBAMxDsLSL2m9Y0Tg0jLblfUIudeew7a6NMvY7MLZAUZADtKHZBVvdRFwYEmL1AKZC199rvuxFc3RWRibt7ZAfWzBgXc8HxdnZA0ZCvoZBZCWqMyb1wjaZC9hHZA9uaKq8WL12csruT5YmW1yJlZCPkdMLaCZBdEpHJiQS25i4CvYLvsqBDg3dAs4u4ZCM96UKgLcgEGmQZDZD HTTP/1.1" 200 11685
+2018-06-03 15:28:02,931 DEBUG: Starting new HTTPS connection (1): graph.facebook.com
+2018-06-03 15:28:03,256 DEBUG: https://graph.facebook.com:443 "GET /v2.1/me/photos?fields=id,created_time,from,height,width,images,link,webp_images&after=TnpRM05qRTNOall4TURVNE9qRXpOekE0T1RZAeU1EYzZANemswTURnNU5qUXdOalEzT0RNMgZDZD&access_token=EAACEdEose0cBAMxDsLSL2m9Y0Tg0jLblfUIudeew7a6NMvY7MLZAUZADtKHZBVvdRFwYEmL1AKZC199rvuxFc3RWRibt7ZAfWzBgXc8HxdnZA0ZCvoZBZCWqMyb1wjaZC9hHZA9uaKq8WL12csruT5YmW1yJlZCPkdMLaCZBdEpHJiQS25i4CvYLvsqBDg3dAs4u4ZCM96UKgLcgEGmQZDZD HTTP/1.1" 200 9549
+2018-06-03 15:28:03,268 DEBUG: Starting new HTTPS connection (1): graph.facebook.com
+2018-06-03 15:28:03,595 DEBUG: https://graph.facebook.com:443 "GET /v2.1/me/photos?fields=id,created_time,from,height,width,images,link,webp_images&after=TlRNeE1UazVNek0xTVRFNE9qRXpOekE0T1RVNE1ETTZANemswTURnNU5qUXdOalEzT0RNMgZDZD&access_token=EAACEdEose0cBAMxDsLSL2m9Y0Tg0jLblfUIudeew7a6NMvY7MLZAUZADtKHZBVvdRFwYEmL1AKZC199rvuxFc3RWRibt7ZAfWzBgXc8HxdnZA0ZCvoZBZCWqMyb1wjaZC9hHZA9uaKq8WL12csruT5YmW1yJlZCPkdMLaCZBdEpHJiQS25i4CvYLvsqBDg3dAs4u4ZCM96UKgLcgEGmQZDZD HTTP/1.1" 200 7454
+2018-06-03 15:28:03,608 DEBUG: Starting new HTTPS connection (1): graph.facebook.com
+2018-06-03 15:28:03,946 DEBUG: https://graph.facebook.com:443 "GET /v2.1/me/photos?fields=id,created_time,from,height,width,images,link,webp_images&after=TlRNeE1qQXlNekU1TVRNNE9qRXpOekE0T1RVMU5EZAzZANemswTURnNU5qUXdOalEzT0RNMgZDZD&access_token=EAACEdEose0cBAMxDsLSL2m9Y0Tg0jLblfUIudeew7a6NMvY7MLZAUZADtKHZBVvdRFwYEmL1AKZC199rvuxFc3RWRibt7ZAfWzBgXc8HxdnZA0ZCvoZBZCWqMyb1wjaZC9hHZA9uaKq8WL12csruT5YmW1yJlZCPkdMLaCZBdEpHJiQS25i4CvYLvsqBDg3dAs4u4ZCM96UKgLcgEGmQZDZD HTTP/1.1" 200 7388
+2018-06-03 15:28:03,964 DEBUG: Starting new HTTPS connection (1): graph.facebook.com
+2018-06-03 15:28:04,284 DEBUG: https://graph.facebook.com:443 "GET /v2.1/me/photos?fields=id,created_time,from,height,width,images,link,webp_images&after=TlRNeE1UWTNPRFl6TVRnNE9qRXpOekE0T1RVek1ETTZANemswTURnNU5qUXdOalEzT0RNMgZDZD&access_token=EAACEdEose0cBAMxDsLSL2m9Y0Tg0jLblfUIudeew7a6NMvY7MLZAUZADtKHZBVvdRFwYEmL1AKZC199rvuxFc3RWRibt7ZAfWzBgXc8HxdnZA0ZCvoZBZCWqMyb1wjaZC9hHZA9uaKq8WL12csruT5YmW1yJlZCPkdMLaCZBdEpHJiQS25i4CvYLvsqBDg3dAs4u4ZCM96UKgLcgEGmQZDZD HTTP/1.1" 200 7472
+2018-06-03 15:28:04,296 DEBUG: Starting new HTTPS connection (1): graph.facebook.com
+2018-06-03 15:28:04,620 DEBUG: https://graph.facebook.com:443 "GET /v2.1/me/photos?fields=id,created_time,from,height,width,images,link,webp_images&after=TlRNeE1UVTJNRFkyT0RJNE9qRXpOekE0T1RVd01qZAzZANemswTURnNU5qUXdOalEzT0RNMgZDZD&access_token=EAACEdEose0cBAMxDsLSL2m9Y0Tg0jLblfUIudeew7a6NMvY7MLZAUZADtKHZBVvdRFwYEmL1AKZC199rvuxFc3RWRibt7ZAfWzBgXc8HxdnZA0ZCvoZBZCWqMyb1wjaZC9hHZA9uaKq8WL12csruT5YmW1yJlZCPkdMLaCZBdEpHJiQS25i4CvYLvsqBDg3dAs4u4ZCM96UKgLcgEGmQZDZD HTTP/1.1" 200 7604
+2018-06-03 15:28:04,632 DEBUG: Starting new HTTPS connection (1): graph.facebook.com
+2018-06-03 15:28:04,968 DEBUG: https://graph.facebook.com:443 "GET /v2.1/me/photos?fields=id,created_time,from,height,width,images,link,webp_images&after=TlRNeE1UVTJNakkyTlRBNE9qRXpOekE0T1RRNE1qZAzZANemswTURnNU5qUXdOalEzT0RNMgZDZD&access_token=EAACEdEose0cBAMxDsLSL2m9Y0Tg0jLblfUIudeew7a6NMvY7MLZAUZADtKHZBVvdRFwYEmL1AKZC199rvuxFc3RWRibt7ZAfWzBgXc8HxdnZA0ZCvoZBZCWqMyb1wjaZC9hHZA9uaKq8WL12csruT5YmW1yJlZCPkdMLaCZBdEpHJiQS25i4CvYLvsqBDg3dAs4u4ZCM96UKgLcgEGmQZDZD HTTP/1.1" 200 7506
+2018-06-03 15:28:04,985 DEBUG: Starting new HTTPS connection (1): graph.facebook.com
+2018-06-03 15:28:06,105 DEBUG: https://graph.facebook.com:443 "GET /v2.1/me/photos?fields=id,created_time,from,height,width,images,link,webp_images&after=TlRZAME16TXpPVGc0TURBNE9qRXpOekEwTmpJM09EVTZANemswTURnNU5qUXdOalEzT0RNMgZDZD&access_token=EAACEdEose0cBAMxDsLSL2m9Y0Tg0jLblfUIudeew7a6NMvY7MLZAUZADtKHZBVvdRFwYEmL1AKZC199rvuxFc3RWRibt7ZAfWzBgXc8HxdnZA0ZCvoZBZCWqMyb1wjaZC9hHZA9uaKq8WL12csruT5YmW1yJlZCPkdMLaCZBdEpHJiQS25i4CvYLvsqBDg3dAs4u4ZCM96UKgLcgEGmQZDZD HTTP/1.1" 200 11705
+2018-06-03 15:28:06,121 DEBUG: Starting new HTTPS connection (1): graph.facebook.com
+2018-06-03 15:28:06,718 DEBUG: https://graph.facebook.com:443 "GET /v2.1/me/photos?fields=id,created_time,from,height,width,images,link,webp_images&after=TlRZAd01EUTVORFEwTWpZANE9qRXlOVFUwTURVd01qTTZANemswTURnNU5qUXdOalEzT0RNMgZDZD&access_token=EAACEdEose0cBAMxDsLSL2m9Y0Tg0jLblfUIudeew7a6NMvY7MLZAUZADtKHZBVvdRFwYEmL1AKZC199rvuxFc3RWRibt7ZAfWzBgXc8HxdnZA0ZCvoZBZCWqMyb1wjaZC9hHZA9uaKq8WL12csruT5YmW1yJlZCPkdMLaCZBdEpHJiQS25i4CvYLvsqBDg3dAs4u4ZCM96UKgLcgEGmQZDZD HTTP/1.1" 200 8009
+2018-06-03 15:28:06,731 DEBUG: Starting new HTTPS connection (1): graph.facebook.com
+2018-06-03 15:28:07,034 DEBUG: https://graph.facebook.com:443 "GET /v2.1/me/photos?fields=id,created_time,from,height,width,images,link,webp_images&after=TlRBNU1ERXpOelkxTVRjNE9qRXhORGMzTkRFNE5qYzZANemswTURnNU5qUXdOalEzT0RNMgZDZD&access_token=EAACEdEose0cBAMxDsLSL2m9Y0Tg0jLblfUIudeew7a6NMvY7MLZAUZADtKHZBVvdRFwYEmL1AKZC199rvuxFc3RWRibt7ZAfWzBgXc8HxdnZA0ZCvoZBZCWqMyb1wjaZC9hHZA9uaKq8WL12csruT5YmW1yJlZCPkdMLaCZBdEpHJiQS25i4CvYLvsqBDg3dAs4u4ZCM96UKgLcgEGmQZDZD HTTP/1.1" 200 5115
+2018-06-03 15:28:07,040 INFO: fetching complete. found 316 photos
+2018-06-03 15:28:07,040 INFO: saving all photos...
+2018-06-03 15:28:07,077 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:28:07,280 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t31.0-8/28424457_10101530217309048_4062551969051929491_o.jpg?_nc_cat=0&oh=41fac93e11b84c2271e6cf37c2407f0c&oe=5B85EC6B HTTP/1.1" 200 194977
+2018-06-03 15:28:07,501 INFO: Saved image 1 of 316
+2018-06-03 15:28:07,504 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:28:07,864 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t31.0-8/25073363_10101453821856148_3064587730937946525_o.jpg?_nc_cat=0&oh=213b0c1eacf5fdbd99f7f5dc1d4b8130&oe=5B82E0C2 HTTP/1.1" 200 261340
+2018-06-03 15:28:08,142 INFO: Saved image 2 of 316
+2018-06-03 15:28:08,146 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:28:08,396 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t31.0-8/23800017_10101437856830188_870449191910629711_o.jpg?_nc_cat=0&oh=f7b2e692b2e88029e0476f2ddbb8f5ff&oe=5B7E7576 HTTP/1.1" 200 243125
+2018-06-03 15:28:08,591 INFO: Saved image 3 of 316
+2018-06-03 15:28:08,593 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:28:08,869 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/21728264_10101368107737928_7380760158142316108_n.jpg?_nc_cat=0&oh=8f151e2267f5336afb6fcafcc4cb15ac&oe=5BBBCDE2 HTTP/1.1" 200 80981
+2018-06-03 15:28:08,960 INFO: Saved image 4 of 316
+2018-06-03 15:28:08,962 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:28:09,190 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t31.0-8/18815170_10101241715394198_6159017782743978395_o.jpg?_nc_cat=0&oh=d4fcf6561eb22a33e3f0707fe804239e&oe=5BBB7E59 HTTP/1.1" 200 None
+2018-06-03 15:28:09,438 INFO: Saved image 5 of 316
+2018-06-03 15:28:09,441 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:28:09,674 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t31.0-8/18700444_10101241689286518_3242205083265720685_o.jpg?_nc_cat=0&oh=3c13b92ce65713d64b1d545f4d66deaa&oe=5B8746F7 HTTP/1.1" 200 None
+2018-06-03 15:28:10,175 INFO: Saved image 6 of 316
+2018-06-03 15:28:10,181 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:28:10,483 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t31.0-8/18738405_10101241688822448_5343745606570827333_o.jpg?_nc_cat=0&oh=466be6b140263c75a456e9d80b8f4bb0&oe=5BBE28F2 HTTP/1.1" 200 None
+2018-06-03 15:28:10,766 INFO: Saved image 7 of 316
+2018-06-03 15:28:10,768 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:28:11,048 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t31.0-8/18739285_10101241688662768_8212353961414368751_o.jpg?_nc_cat=0&oh=0f266e8c7e165259c08a4648b006e937&oe=5B798620 HTTP/1.1" 200 None
+2018-06-03 15:28:11,337 INFO: Saved image 8 of 316
+2018-06-03 15:28:11,339 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:28:11,638 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/18222348_10101212669826748_2652190763209319696_n.jpg?_nc_cat=0&oh=4d92e45202fbfae7fd37e82a73920545&oe=5BBE616E HTTP/1.1" 200 None
+2018-06-03 15:28:11,797 INFO: Saved image 9 of 316
+2018-06-03 15:28:11,800 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:28:12,141 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/18198661_10101212652581308_8778766999681610611_n.jpg?_nc_cat=0&oh=82f0ef8cf6d4de56f02b28fa83a6a9b7&oe=5BC0213E HTTP/1.1" 200 None
+2018-06-03 15:28:12,235 INFO: Saved image 10 of 316
+2018-06-03 15:28:12,237 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:28:12,487 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/18198592_10101212670285828_2171096036721372555_n.jpg?_nc_cat=0&oh=0a1ccc7cb4e5f655351bf3e736666357&oe=5BC3D2D1 HTTP/1.1" 200 None
+2018-06-03 15:28:12,702 INFO: Saved image 11 of 316
+2018-06-03 15:28:12,704 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:28:12,951 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/18222072_10101212670021358_749425691551463089_n.jpg?_nc_cat=0&oh=ded847775f92c12c1aeae758196ab712&oe=5BC057D4 HTTP/1.1" 200 None
+2018-06-03 15:28:13,158 INFO: Saved image 12 of 316
+2018-06-03 15:28:13,160 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:28:13,386 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t31.0-8/16177719_1858411491040388_7760250727122474526_o.jpg?_nc_cat=0&oh=4ecc8e377da3e9a31ec000226b760354&oe=5B79D495 HTTP/1.1" 200 None
+2018-06-03 15:28:13,989 INFO: Saved image 13 of 316
+2018-06-03 15:28:13,991 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:28:14,234 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/16143168_10101098650931528_7596644768716452178_n.jpg?_nc_cat=0&oh=e7f80031cd23962ec82d6d1d1b8c47ba&oe=5BBBBC4D HTTP/1.1" 200 None
+2018-06-03 15:28:14,353 INFO: Saved image 14 of 316
+2018-06-03 15:28:14,355 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:28:14,589 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/15977404_10101090866711168_4573733315668009596_n.jpg?_nc_cat=0&oh=ebb4e9211616de02669c68eeca712894&oe=5BB98994 HTTP/1.1" 200 None
+2018-06-03 15:28:14,686 INFO: Saved image 15 of 316
+2018-06-03 15:28:14,689 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:28:32,380 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/15977683_10101089849933798_4393165585457795953_n.jpg?_nc_cat=0&oh=619abf24d4ff1ebacad00f8160fc8a83&oe=5B7D8688 HTTP/1.1" 200 None
+2018-06-03 15:28:37,246 INFO: Saved image 16 of 316
+2018-06-03 15:28:37,249 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:28:37,525 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/15391218_10101060152128438_5156444012462091589_n.jpg?_nc_cat=0&oh=84efd8a9c74d7c8e883c0db2e2303c08&oe=5BB64819 HTTP/1.1" 200 None
+2018-06-03 15:28:37,623 INFO: Saved image 17 of 316
+2018-06-03 15:28:37,628 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:28:37,892 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/15355648_10101060159478708_2143351186704365422_n.jpg?_nc_cat=0&oh=c837559a20561d562964a6177ed5f754&oe=5BC2A1AD HTTP/1.1" 200 None
+2018-06-03 15:28:38,009 INFO: Saved image 18 of 316
+2018-06-03 15:28:38,012 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:28:38,261 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t31.0-8/14883552_999723436821846_514457365236982014_o.jpg?_nc_cat=0&oh=d268dacf330b6fd40ff66639ea7040af&oe=5BBC0E14 HTTP/1.1" 200 None
+2018-06-03 15:28:38,450 INFO: Saved image 19 of 316
+2018-06-03 15:28:38,453 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:28:38,692 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t31.0-8/14883502_999724496821740_8662565451164784254_o.jpg?_nc_cat=0&oh=8918e4f4e5c43d76b9d46bbc7ba08f1e&oe=5B81A003 HTTP/1.1" 200 None
+2018-06-03 15:28:38,849 INFO: Saved image 20 of 316
+2018-06-03 15:28:38,852 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:28:39,112 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t31.0-8/14379703_10100969850857908_2393968807640702331_o.jpg?_nc_cat=0&oh=0edcb7952e5d93a3bd6cc058f6ec3f28&oe=5BB74E18 HTTP/1.1" 200 None
+2018-06-03 15:28:39,432 INFO: Saved image 21 of 316
+2018-06-03 15:28:39,472 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:28:39,738 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/14183878_10100950287073888_1900514449438102827_n.jpg?_nc_cat=0&oh=43bc3d6fe6f266cb6e7bf9dcb4974c83&oe=5B851583 HTTP/1.1" 200 None
+2018-06-03 15:28:39,862 INFO: Saved image 22 of 316
+2018-06-03 15:28:39,864 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:28:40,129 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/14088517_10100950286979078_3235897041923375714_n.jpg?_nc_cat=0&oh=efcbab1e82f22e30ad1cc655d6663abd&oe=5B849B66 HTTP/1.1" 200 None
+2018-06-03 15:28:40,215 INFO: Saved image 23 of 316
+2018-06-03 15:28:40,217 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:28:40,480 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t31.0-8/14124367_566940420153078_5299494385897076049_o.jpg?_nc_cat=0&oh=d048f4e277a353ee69aa36f7164abff0&oe=5BC1AADE HTTP/1.1" 200 None
+2018-06-03 15:28:40,660 INFO: Saved image 24 of 316
+2018-06-03 15:28:40,663 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:28:40,919 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/13892276_10100927778840568_1664575340537256113_n.jpg?_nc_cat=0&oh=d4c6e76ead5f9643d5c473ef6916addf&oe=5BBAC63F HTTP/1.1" 200 None
+2018-06-03 15:28:41,055 INFO: Saved image 25 of 316
+2018-06-03 15:28:41,058 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:28:41,299 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/13895423_10100927779050148_5424382332048032520_n.jpg?_nc_cat=0&oh=9bab391da3a61ef1005c58d037b803ae&oe=5B77D2C1 HTTP/1.1" 200 None
+2018-06-03 15:28:41,399 INFO: Saved image 26 of 316
+2018-06-03 15:28:41,402 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:28:41,673 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/13900137_10100937443826858_6561268557161433858_n.jpg?_nc_cat=0&oh=046143e4dfe44cbc3d15e87b71c7dd99&oe=5B76E11E HTTP/1.1" 200 None
+2018-06-03 15:28:41,890 INFO: Saved image 27 of 316
+2018-06-03 15:28:41,896 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:28:42,405 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/13891987_10100927778301648_6719981554034052433_n.jpg?_nc_cat=0&oh=891c3bedabd483106b9c89a8c24d12fe&oe=5BB0BE7D HTTP/1.1" 200 None
+2018-06-03 15:28:42,501 INFO: Saved image 28 of 316
+2018-06-03 15:28:42,504 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:28:42,761 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/13879298_10100927771774728_7443174892353409558_n.jpg?_nc_cat=0&oh=82b073ea732e709ba0a37b3276fa2bd4&oe=5BBFFB39 HTTP/1.1" 200 None
+2018-06-03 15:28:42,898 INFO: Saved image 29 of 316
+2018-06-03 15:28:42,901 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:28:43,341 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t31.0-8/12038898_10100682478833748_8585755777080198175_o.jpg?_nc_cat=0&oh=784ac444b34bbaf7354f447ac5bb0fd6&oe=5BB70900 HTTP/1.1" 200 None
+2018-06-03 15:28:43,977 INFO: Saved image 30 of 316
+2018-06-03 15:28:43,979 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:29:05,543 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t31.0-8/11754882_10100643538006478_4349438664876940097_o.jpg?_nc_cat=0&oh=77000be5c6d78fd1aa17c06db1f42d24&oe=5BBF3D7C HTTP/1.1" 200 None
+2018-06-03 15:29:12,769 INFO: Saved image 31 of 316
+2018-06-03 15:29:12,773 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:29:13,033 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t31.0-8/11838606_10100643537931628_261374862639873584_o.jpg?_nc_cat=0&oh=948343659df4f846edc6b61c0ca1d34f&oe=5B803808 HTTP/1.1" 200 None
+2018-06-03 15:29:13,401 INFO: Saved image 32 of 316
+2018-06-03 15:29:13,404 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:29:14,109 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t31.0-8/11845039_10100643537856778_7151467983765791904_o.jpg?_nc_cat=0&oh=6e84d0d85ebf0d4f618043abca994acf&oe=5BB7964F HTTP/1.1" 200 None
+2018-06-03 15:29:17,070 INFO: Saved image 33 of 316
+2018-06-03 15:29:17,074 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:29:17,382 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t31.0-8/11700995_10100643537801888_5327429600978689247_o.jpg?_nc_cat=0&oh=b4f69ebea5b1c6d2cea9486611e9e6b4&oe=5B7A25B2 HTTP/1.1" 200 None
+2018-06-03 15:29:17,561 INFO: Saved image 34 of 316
+2018-06-03 15:29:17,564 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:29:17,880 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t31.0-8/11219562_10100643537692108_8291912465406710967_o.jpg?_nc_cat=0&oh=a64e1b06b97efe4c1a2c42db31b4d408&oe=5BC39AFF HTTP/1.1" 200 None
+2018-06-03 15:29:19,139 INFO: Saved image 35 of 316
+2018-06-03 15:29:19,142 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:29:20,656 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t31.0-8/11807346_10100643537557378_2118647293009096058_o.jpg?_nc_cat=0&oh=685fcc330a58560884e3470d8679dbf1&oe=5BB87A33 HTTP/1.1" 200 None
+2018-06-03 15:29:21,122 INFO: Saved image 36 of 316
+2018-06-03 15:29:21,124 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:29:22,216 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t31.0-8/11802721_10100643537437618_5683866403852738888_o.jpg?_nc_cat=0&oh=836015c8c9725439fe85f4f6dc812b1c&oe=5BC04699 HTTP/1.1" 200 None
+2018-06-03 15:29:22,510 INFO: Saved image 37 of 316
+2018-06-03 15:29:22,513 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:29:22,748 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t31.0-8/11782295_10100643537332828_2332613355861301675_o.jpg?_nc_cat=0&oh=e884d357313acd78d6786ff5475499ac&oe=5B80A150 HTTP/1.1" 200 None
+2018-06-03 15:29:24,262 INFO: Saved image 38 of 316
+2018-06-03 15:29:24,265 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:29:24,502 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/11138102_10100643537238018_6044560187838437841_n.jpg?_nc_cat=0&oh=c5335e45f54dea9973172ed03ce9222e&oe=5BBA92EE HTTP/1.1" 200 None
+2018-06-03 15:29:24,598 INFO: Saved image 39 of 316
+2018-06-03 15:29:24,609 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:29:24,846 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t31.0-8/11223571_10100643537173148_8002395924101184188_o.jpg?_nc_cat=0&oh=2079e1b783b17965f271186f96424b02&oe=5BC256E6 HTTP/1.1" 200 None
+2018-06-03 15:29:25,438 INFO: Saved image 40 of 316
+2018-06-03 15:29:25,441 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:29:27,086 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t31.0-8/11017355_10100643537063368_6025518723254108311_o.jpg?_nc_cat=0&oh=79ce9cad777018597ab5244e3eb94881&oe=5BB9113F HTTP/1.1" 200 None
+2018-06-03 15:29:29,466 INFO: Saved image 41 of 316
+2018-06-03 15:29:29,469 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:29:30,513 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t31.0-8/11779815_10100643537033428_7592906926804628200_o.jpg?_nc_cat=0&oh=7c9afe82037a52f25ea4e38b856f4ca6&oe=5B81CF4C HTTP/1.1" 200 None
+2018-06-03 15:29:32,037 INFO: Saved image 42 of 316
+2018-06-03 15:29:32,039 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:29:32,278 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t31.0-8/11794399_10100643536863768_6543219898079867110_o.jpg?_nc_cat=0&oh=ad872e17982a9e7ac0e6f31c9ce013ea&oe=5B7B0347 HTTP/1.1" 200 None
+2018-06-03 15:29:32,392 INFO: Saved image 43 of 316
+2018-06-03 15:29:32,396 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:29:32,865 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t31.0-8/11838934_10100643536838818_4131579705558947698_o.jpg?_nc_cat=0&oh=7ab8db73dc099a7ed52e6410053aaadf&oe=5BBD176B HTTP/1.1" 200 None
+2018-06-03 15:29:33,324 INFO: Saved image 44 of 316
+2018-06-03 15:29:33,327 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:29:33,574 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t31.0-8/11779821_10100643536783928_955788859090967453_o.jpg?_nc_cat=0&oh=e01b43735db87b294c7c296e87626f4b&oe=5BB73B37 HTTP/1.1" 200 None
+2018-06-03 15:29:33,791 INFO: Saved image 45 of 316
+2018-06-03 15:29:33,793 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:29:34,027 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t31.0-8/11807346_10100643536753988_7344962713055924599_o.jpg?_nc_cat=0&oh=8a4b13dd30c60979c6fec3fa1d5ebc4c&oe=5BB46FB2 HTTP/1.1" 200 None
+2018-06-03 15:29:39,488 INFO: Saved image 46 of 316
+2018-06-03 15:29:39,747 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:29:39,989 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t31.0-8/11782493_10100643536699098_8031856949560496144_o.jpg?_nc_cat=0&oh=4068fe29f5c83504f89a589e610a308b&oe=5BBC03F9 HTTP/1.1" 200 None
+2018-06-03 15:29:40,188 INFO: Saved image 47 of 316
+2018-06-03 15:29:40,190 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:29:42,438 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t31.0-8/11792117_10100643536584328_8484187723889510384_o.jpg?_nc_cat=0&oh=30d2e70f7c9394f6700ba8d32792919b&oe=5BB260A3 HTTP/1.1" 200 None
+2018-06-03 15:29:44,118 INFO: Saved image 48 of 316
+2018-06-03 15:29:44,155 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:29:44,439 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t31.0-8/11779910_10100643536484528_3498094966171715823_o.jpg?_nc_cat=0&oh=3a5e05bef53cfe6f345c1e9747808d22&oe=5BC23ECA HTTP/1.1" 200 None
+2018-06-03 15:29:44,615 INFO: Saved image 49 of 316
+2018-06-03 15:29:44,618 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:29:44,838 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t31.0-8/11709848_10100643536424648_4181942776267056098_o.jpg?_nc_cat=0&oh=5238d4a4b370b5e5e0bda95c5754b535&oe=5B874555 HTTP/1.1" 200 None
+2018-06-03 15:29:45,190 INFO: Saved image 50 of 316
+2018-06-03 15:29:45,194 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:29:47,348 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t31.0-8/11055354_10100643536419658_4050002348511891081_o.jpg?_nc_cat=0&oh=3f2c12c23c77dd4749062ffdeb3f7d6d&oe=5B8344DC HTTP/1.1" 200 None
+2018-06-03 15:29:49,048 INFO: Saved image 51 of 316
+2018-06-03 15:29:49,051 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:29:49,601 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t31.0-8/11807333_10100643536284928_7405252079436032864_o.jpg?_nc_cat=0&oh=909920ab8f53efae8a40ae6d3df8cf80&oe=5B879DCF HTTP/1.1" 200 None
+2018-06-03 15:29:50,461 INFO: Saved image 52 of 316
+2018-06-03 15:29:50,464 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:29:51,217 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t31.0-8/11782414_10100643536005488_4979111183235862157_o.jpg?_nc_cat=0&oh=b419c6a6216f724b0d79abf23e9caef8&oe=5BB4BA99 HTTP/1.1" 200 None
+2018-06-03 15:29:51,437 INFO: Saved image 53 of 316
+2018-06-03 15:29:51,439 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:29:51,792 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t31.0-8/11807272_10100643535990518_4989324208629385658_o.jpg?_nc_cat=0&oh=2636b1ca93bcc13fada76f49f2277c7b&oe=5B818E5E HTTP/1.1" 200 None
+2018-06-03 15:29:54,095 INFO: Saved image 54 of 316
+2018-06-03 15:29:54,099 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:29:54,596 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/11825861_10100643535621258_8879274573909358237_n.jpg?_nc_cat=0&oh=692d9639dbd96dca3c8f07e5d71708df&oe=5BB5F2E6 HTTP/1.1" 200 None
+2018-06-03 15:29:54,669 INFO: Saved image 55 of 316
+2018-06-03 15:29:54,706 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:29:55,021 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t31.0-8/11816097_10100643535511478_5104741788820424030_o.jpg?_nc_cat=0&oh=6edd9fcb669b55c16377b3368265da6c&oe=5BB0C478 HTTP/1.1" 200 None
+2018-06-03 15:29:55,276 INFO: Saved image 56 of 316
+2018-06-03 15:29:55,279 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:29:57,784 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t31.0-8/1899723_10100295045024208_7859091549632342381_o.jpg?_nc_cat=0&oh=2c450f080c7aef7fd067f1580369396a&oe=5BC0BB03 HTTP/1.1" 200 None
+2018-06-03 15:29:58,625 INFO: Saved image 57 of 316
+2018-06-03 15:29:58,627 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:29:58,848 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t31.0-8/10379848_10100275995020568_6009258006936172472_o.jpg?_nc_cat=0&oh=e5f9c75b4fdd44669b583034f9a92532&oe=5BB66AF8 HTTP/1.1" 200 None
+2018-06-03 15:29:59,147 INFO: Saved image 58 of 316
+2018-06-03 15:29:59,151 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:29:59,796 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t31.0-8/1511591_10100275993483648_2589189063065990349_o.jpg?_nc_cat=0&oh=850769c087a6fd307c536c37570e9e10&oe=5B7EB994 HTTP/1.1" 200 None
+2018-06-03 15:30:01,274 INFO: Saved image 59 of 316
+2018-06-03 15:30:01,278 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:30:01,539 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/10177315_10100273900033938_5048942551489086385_n.jpg?_nc_cat=0&oh=e119a37a6df41388734993b5b99a0d72&oe=5B78B8DC HTTP/1.1" 200 None
+2018-06-03 15:30:01,671 INFO: Saved image 60 of 316
+2018-06-03 15:30:01,676 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:30:01,944 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t31.0-8/1798980_10100240775760248_2005176524_o.jpg?_nc_cat=0&oh=9a66853777ae6048066a8a23787b89ce&oe=5BB634BF HTTP/1.1" 200 None
+2018-06-03 15:30:02,498 INFO: Saved image 61 of 316
+2018-06-03 15:30:02,501 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:30:04,733 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t31.0-8/1782568_10100218790833218_2103060624_o.jpg?_nc_cat=0&oh=52c393c9ac1f5849361c7cfb23dea82b&oe=5BBF84EF HTTP/1.1" 200 None
+2018-06-03 15:30:06,934 INFO: Saved image 62 of 316
+2018-06-03 15:30:06,937 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:30:07,489 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t31.0-8/882088_10100205156820888_594408204_o.jpg?_nc_cat=0&oh=7fb8ced3b89870861e7b5683d3d4e2e3&oe=5B87F35A HTTP/1.1" 200 None
+2018-06-03 15:30:09,725 INFO: Saved image 63 of 316
+2018-06-03 15:30:09,728 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:30:10,575 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t31.0-8/1512112_10100202830582688_417620111_o.jpg?_nc_cat=0&oh=3ab28ec5edb52a1c4e594345e1de8db3&oe=5B86C4EA HTTP/1.1" 200 None
+2018-06-03 15:30:10,927 INFO: Saved image 64 of 316
+2018-06-03 15:30:10,929 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:30:11,324 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t31.0-8/1504341_10100187515134968_2105586837_o.jpg?_nc_cat=0&oh=68f9111a7a449bbb403453e200edd106&oe=5BBC861F HTTP/1.1" 200 None
+2018-06-03 15:30:11,455 INFO: Saved image 65 of 316
+2018-06-03 15:30:11,458 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:30:11,725 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t31.0-8/904356_10100159163985898_105147247_o.jpg?_nc_cat=0&oh=d55ac1faa24bde10d2762240926b1aec&oe=5BB6CEA7 HTTP/1.1" 200 None
+2018-06-03 15:30:12,091 INFO: Saved image 66 of 316
+2018-06-03 15:30:12,093 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:30:12,355 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t31.0-8/1399611_10100153150377218_983596437_o.jpg?_nc_cat=0&oh=11161f750b75cccd026d0a0e5da1ddaf&oe=5BB30784 HTTP/1.1" 200 None
+2018-06-03 15:30:12,625 INFO: Saved image 67 of 316
+2018-06-03 15:30:12,628 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:30:19,918 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t31.0-8/1396889_10100147769390758_1427281559_o.jpg?_nc_cat=0&oh=186868da269d0c8edc7ef3a5881e88f6&oe=5B78F7AC HTTP/1.1" 200 None
+2018-06-03 15:30:22,518 INFO: Saved image 68 of 316
+2018-06-03 15:30:22,521 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:30:22,816 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t31.0-8/286015_10100109157534228_1451925567_o.jpg?_nc_cat=0&oh=284774d890f2b16f6e680a573c18234d&oe=5BB0B4DD HTTP/1.1" 200 None
+2018-06-03 15:30:23,198 INFO: Saved image 69 of 316
+2018-06-03 15:30:23,201 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:30:25,102 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t31.0-8/1025733_1000684103878_1773359016_o.jpg?_nc_cat=0&oh=9ac10daef0d073659e718587c55409c8&oe=5BB2C401 HTTP/1.1" 200 None
+2018-06-03 15:30:25,560 INFO: Saved image 70 of 316
+2018-06-03 15:30:25,563 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:30:26,077 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1010584_992184562028_625529123_n.jpg?_nc_cat=0&oh=04ae850792706a151a7d1a05e0b2005c&oe=5B8606B3 HTTP/1.1" 200 None
+2018-06-03 15:30:26,697 INFO: Saved image 71 of 316
+2018-06-03 15:30:26,702 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:30:27,209 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t31.0-8/1008489_983594970638_1611588498_o.jpg?_nc_cat=0&oh=be42701f89e049a95fbb8b6d262bf05a&oe=5B855D38 HTTP/1.1" 200 186414
+2018-06-03 15:30:27,450 INFO: Saved image 72 of 316
+2018-06-03 15:30:27,453 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:30:27,694 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1917182_565273629958_2987004_n.jpg?_nc_cat=0&oh=716afecb180267a038153f918a206839&oe=5BBA3485 HTTP/1.1" 200 None
+2018-06-03 15:30:27,793 INFO: Saved image 73 of 316
+2018-06-03 15:30:27,796 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:30:28,074 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1917182_565414697258_3556816_n.jpg?_nc_cat=0&oh=0e6b8614c4adbf1d407b0043a0aa35c3&oe=5B7EEB0A HTTP/1.1" 200 None
+2018-06-03 15:30:28,211 INFO: Saved image 74 of 316
+2018-06-03 15:30:28,214 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:30:28,639 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1917182_566406310058_7606431_n.jpg?_nc_cat=0&oh=1ddbd89d2a630d59bf05a5b2ca78d6e4&oe=5B801A65 HTTP/1.1" 200 None
+2018-06-03 15:30:28,777 INFO: Saved image 75 of 316
+2018-06-03 15:30:28,780 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:30:29,203 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1917182_567584608738_6155254_n.jpg?_nc_cat=0&oh=29bccd4a76bff3d16a955cb976a96840&oe=5BC0D3EE HTTP/1.1" 200 None
+2018-06-03 15:30:29,282 INFO: Saved image 76 of 316
+2018-06-03 15:30:29,285 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:30:32,718 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/17477_567809273508_7841015_n.jpg?_nc_cat=0&oh=0bbc03fc9fef43cf6e7babdd42162ef2&oe=5B84048C HTTP/1.1" 200 None
+2018-06-03 15:30:33,367 INFO: Saved image 77 of 316
+2018-06-03 15:30:33,369 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:30:33,697 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/20577_570012208808_6554970_n.jpg?_nc_cat=0&oh=c8a83bf598091e022081f3ca48df18c4&oe=5BBC55A5 HTTP/1.1" 200 None
+2018-06-03 15:30:33,779 INFO: Saved image 78 of 316
+2018-06-03 15:30:33,781 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:30:34,053 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/17577_571992729828_6448853_n.jpg?_nc_cat=0&oh=6552efb10500a24174324763af2b05d9&oe=5BB14516 HTTP/1.1" 200 None
+2018-06-03 15:30:34,238 INFO: Saved image 79 of 316
+2018-06-03 15:30:34,242 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:30:37,841 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/25979_573953899628_5112986_n.jpg?_nc_cat=0&oh=32ff1ece16103a5a30c9bfec33e08006&oe=5BBBABE6 HTTP/1.1" 200 None
+2018-06-03 15:30:38,666 INFO: Saved image 80 of 316
+2018-06-03 15:30:38,669 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:30:38,884 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1918543_574277057018_6086306_n.jpg?_nc_cat=0&oh=ac9291158a3dd40b3ee0b357ac0bf9b6&oe=5BB67C7E HTTP/1.1" 200 None
+2018-06-03 15:30:38,970 INFO: Saved image 81 of 316
+2018-06-03 15:30:38,973 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:30:39,209 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1918543_574277101928_5353542_n.jpg?_nc_cat=0&oh=e1b3c0e32b2af4809a95f0391755b937&oe=5B7C0736 HTTP/1.1" 200 None
+2018-06-03 15:30:39,312 INFO: Saved image 82 of 316
+2018-06-03 15:30:39,315 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:30:47,143 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/23831_575880204298_6882242_n.jpg?_nc_cat=0&oh=63f446a3e4051691cab3b02b2493930a&oe=5BBAC7B7 HTTP/1.1" 200 None
+2018-06-03 15:30:49,020 INFO: Saved image 83 of 316
+2018-06-03 15:30:49,058 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:30:49,289 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/30888_578362030698_6072662_n.jpg?_nc_cat=0&oh=647a4f7586f1be3e76fccc42bfaa5e40&oe=5B7CC6D0 HTTP/1.1" 200 None
+2018-06-03 15:30:49,400 INFO: Saved image 84 of 316
+2018-06-03 15:30:49,403 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:30:49,710 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/32533_579076329238_723111_n.jpg?_nc_cat=0&oh=e8cb48f14817d7d217acace8649d6cdd&oe=5BB86962 HTTP/1.1" 200 None
+2018-06-03 15:30:49,826 INFO: Saved image 85 of 316
+2018-06-03 15:30:49,829 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:30:52,492 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/30533_580403659258_2184550_n.jpg?_nc_cat=0&oh=af94ec96a4ffb0e28f340249b43d6894&oe=5BC33BB2 HTTP/1.1" 200 None
+2018-06-03 15:30:53,235 INFO: Saved image 86 of 316
+2018-06-03 15:30:53,277 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:30:53,557 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/155795_602919073188_4876603_n.jpg?_nc_cat=0&oh=9400bf5bea14c7a2a7ce2b22351ea897&oe=5BB1B1C4 HTTP/1.1" 200 None
+2018-06-03 15:30:53,639 INFO: Saved image 87 of 316
+2018-06-03 15:30:53,643 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:30:53,946 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t31.0-8/171270_607529154548_5976295_o.jpg?_nc_cat=0&oh=efd5e9d27063dfa286a3970112fef0cd&oe=5B85FAB1 HTTP/1.1" 200 None
+2018-06-03 15:30:54,101 INFO: Saved image 88 of 316
+2018-06-03 15:30:54,107 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:30:54,637 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t31.0-8/170874_608810092538_691107_o.jpg?_nc_cat=0&oh=322aa062d971c9c48394b22838e03548&oe=5B872169 HTTP/1.1" 200 None
+2018-06-03 15:30:54,802 INFO: Saved image 89 of 316
+2018-06-03 15:30:54,805 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:30:55,187 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t31.0-8/220458_654595188838_7464708_o.jpg?_nc_cat=0&oh=d274dcc84192344eced944561f65e0d8&oe=5BB5879B HTTP/1.1" 200 None
+2018-06-03 15:30:55,895 INFO: Saved image 90 of 316
+2018-06-03 15:30:55,898 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:30:56,662 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t31.0-8/240282_655269432648_5577189_o.jpg?_nc_cat=0&oh=0597c992dc249976c13d61c5b4495915&oe=5BB4CE26 HTTP/1.1" 200 None
+2018-06-03 15:30:59,976 INFO: Saved image 91 of 316
+2018-06-03 15:30:59,982 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:31:00,240 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t31.0-8/258921_660213968758_4419213_o.jpg?_nc_cat=0&oh=28e6b6ca36596317f751d255445b6653&oe=5BC4B840 HTTP/1.1" 200 None
+2018-06-03 15:31:01,811 INFO: Saved image 92 of 316
+2018-06-03 15:31:01,817 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:31:04,248 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1929005_562682178248_5751249_n.jpg?_nc_cat=0&oh=6d808972386d729f28a2272e0adc9e9b&oe=5B841F6E HTTP/1.1" 200 None
+2018-06-03 15:31:04,633 INFO: Saved image 93 of 316
+2018-06-03 15:31:04,637 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:31:04,866 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1915203_563423327978_3124516_n.jpg?_nc_cat=0&oh=2682dcd47a60340ddbbd8791d9309e10&oe=5BC5129B HTTP/1.1" 200 None
+2018-06-03 15:31:04,910 INFO: Saved image 94 of 316
+2018-06-03 15:31:04,915 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:31:05,201 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1916911_563667803048_4706646_n.jpg?_nc_cat=0&oh=113962f78bb7c79674d01d47bd5c8bb5&oe=5B7F43F8 HTTP/1.1" 200 None
+2018-06-03 15:31:06,279 INFO: Saved image 95 of 316
+2018-06-03 15:31:06,282 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:31:07,567 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1916911_563987547278_2352131_n.jpg?_nc_cat=0&oh=70c6b43a4ea2472a1f8cb98ec758c244&oe=5B7DFB48 HTTP/1.1" 200 None
+2018-06-03 15:31:07,709 INFO: Saved image 96 of 316
+2018-06-03 15:31:07,711 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:31:08,099 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1916911_563967183088_2120165_n.jpg?_nc_cat=0&oh=b15c20bb15e10042b51f24ea22ecd7a6&oe=5BBADD5B HTTP/1.1" 200 None
+2018-06-03 15:31:08,278 INFO: Saved image 97 of 316
+2018-06-03 15:31:08,281 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:31:08,650 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t31.0-8/329290_851970921288_2124188665_o.jpg?_nc_cat=0&oh=d87a2e272eeea53051a408cdc78452ab&oe=5B813A7A HTTP/1.1" 200 None
+2018-06-03 15:31:13,218 INFO: Saved image 98 of 316
+2018-06-03 15:31:13,223 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:31:13,499 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/318020_827393804028_144914105_n.jpg?_nc_cat=0&oh=da1ea9294fbd06bd77aba6bfc7d4e128&oe=5BB2B2DB HTTP/1.1" 200 None
+2018-06-03 15:31:13,618 INFO: Saved image 99 of 316
+2018-06-03 15:31:13,621 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:31:13,920 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t31.0-8/326525_747617661058_108629284_o.jpg?_nc_cat=0&oh=33215fd52303e3e7ad685c29ee60d2c8&oe=5B826756 HTTP/1.1" 200 None
+2018-06-03 15:31:14,131 INFO: Saved image 100 of 316
+2018-06-03 15:31:14,135 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:31:18,154 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t31.0-8/340457_695874634498_2003254071_o.jpg?_nc_cat=0&oh=02a67048dd8cf54ffb1bdd998eece81d&oe=5BC04404 HTTP/1.1" 200 None
+2018-06-03 15:31:19,419 INFO: Saved image 101 of 316
+2018-06-03 15:31:19,422 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:31:19,718 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t31.0-8/333021_691716362708_793898015_o.jpg?_nc_cat=0&oh=c69f8a6fd105172eeb7a1355fc19ce68&oe=5B8420CD HTTP/1.1" 200 None
+2018-06-03 15:31:20,129 INFO: Saved image 102 of 316
+2018-06-03 15:31:20,132 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:31:21,139 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t31.0-8/329284_687076476078_1651185136_o.jpg?_nc_cat=0&oh=37a7b9b2970b08a49b2acb5d3e633433&oe=5B832692 HTTP/1.1" 200 None
+2018-06-03 15:31:21,507 INFO: Saved image 103 of 316
+2018-06-03 15:31:21,510 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:31:21,744 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t31.0-8/257940_661707066578_4649805_o.jpg?_nc_cat=0&oh=d40411517f4e1eb4d76e566518e6de05&oe=5BC4C25E HTTP/1.1" 200 None
+2018-06-03 15:31:21,901 INFO: Saved image 104 of 316
+2018-06-03 15:31:21,904 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:31:22,267 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/34285_583346362058_8235632_n.jpg?_nc_cat=0&oh=71e5a3d2e351732c2a386bb8140c8238&oe=5BBCB935 HTTP/1.1" 200 None
+2018-06-03 15:31:22,436 INFO: Saved image 105 of 316
+2018-06-03 15:31:22,439 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:31:22,859 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/32133_581901312948_6697476_n.jpg?_nc_cat=0&oh=4b2cb6c644a024e7f946d4c74c2a516e&oe=5BBC9ACD HTTP/1.1" 200 None
+2018-06-03 15:31:23,450 INFO: Saved image 106 of 316
+2018-06-03 15:31:23,454 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:31:27,659 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531202269238_6464_n.jpg?_nc_cat=0&oh=20f8bdee78538c27bcb0fcbd063fddb9&oe=5BBA6E11 HTTP/1.1" 200 56143
+2018-06-03 15:31:28,476 INFO: Saved image 107 of 316
+2018-06-03 15:31:28,479 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:31:28,767 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531201845088_3699_n.jpg?_nc_cat=0&oh=e3c8a0d725e1d698b05206eaad7e34dd&oe=5BBD9A0D HTTP/1.1" 200 None
+2018-06-03 15:31:28,842 INFO: Saved image 108 of 316
+2018-06-03 15:31:28,845 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:31:29,076 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531201840098_3357_n.jpg?_nc_cat=0&oh=a71be93894aa2a716be045fc84292b89&oe=5B82BF5E HTTP/1.1" 200 None
+2018-06-03 15:31:29,162 INFO: Saved image 109 of 316
+2018-06-03 15:31:29,165 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:31:31,746 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531201835108_3019_n.jpg?_nc_cat=0&oh=35c5cd29f2b0770fec0bbfb696f93145&oe=5B86A95C HTTP/1.1" 200 None
+2018-06-03 15:31:32,439 INFO: Saved image 110 of 316
+2018-06-03 15:31:32,441 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:31:32,679 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531201830118_2681_n.jpg?_nc_cat=0&oh=d40b53a8570f6fa05e82155851dcd1e2&oe=5BC4E1AA HTTP/1.1" 200 None
+2018-06-03 15:31:32,773 INFO: Saved image 111 of 316
+2018-06-03 15:31:32,777 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:31:33,019 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531201825128_2361_n.jpg?_nc_cat=0&oh=31e38d416a38edd7b7f27d94582493af&oe=5B769903 HTTP/1.1" 200 49085
+2018-06-03 15:31:33,094 INFO: Saved image 112 of 316
+2018-06-03 15:31:33,097 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:31:37,542 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531201820138_2032_n.jpg?_nc_cat=0&oh=ff94eac8c807d6d069f33a1c22494023&oe=5B880731 HTTP/1.1" 200 55042
+2018-06-03 15:31:38,904 INFO: Saved image 113 of 316
+2018-06-03 15:31:38,907 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:31:39,158 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531201815148_1702_n.jpg?_nc_cat=0&oh=8b0bd58baac3baaa3c4cb2b9cb2b39bc&oe=5BB0F539 HTTP/1.1" 200 65087
+2018-06-03 15:31:39,264 INFO: Saved image 114 of 316
+2018-06-03 15:31:39,268 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:31:39,483 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531201805168_926_n.jpg?_nc_cat=0&oh=4544a5301b41f0df3b7d338ac53e0d4d&oe=5BBFCD79 HTTP/1.1" 200 None
+2018-06-03 15:31:39,582 INFO: Saved image 115 of 316
+2018-06-03 15:31:39,585 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:31:42,302 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531201800178_598_n.jpg?_nc_cat=0&oh=4c22cd6f4ed98cb618dd9b9a35122d24&oe=5BBA6864 HTTP/1.1" 200 None
+2018-06-03 15:31:43,171 INFO: Saved image 116 of 316
+2018-06-03 15:31:43,174 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:31:43,418 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531201795188_295_n.jpg?_nc_cat=0&oh=4510fe00a90a0aa92a1ed028321f2338&oe=5B836424 HTTP/1.1" 200 51443
+2018-06-03 15:31:43,502 INFO: Saved image 117 of 316
+2018-06-03 15:31:43,505 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:31:46,694 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531201790198_9951_n.jpg?_nc_cat=0&oh=c4c0f82b102e7d69591d3cc9e9e411a7&oe=5BC195C9 HTTP/1.1" 200 None
+2018-06-03 15:31:47,758 INFO: Saved image 118 of 316
+2018-06-03 15:31:47,816 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:31:48,152 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531201785208_9610_n.jpg?_nc_cat=0&oh=abb284f5ab65463cad6d07ee55b25d74&oe=5BB3B37F HTTP/1.1" 200 54999
+2018-06-03 15:31:48,230 INFO: Saved image 119 of 316
+2018-06-03 15:31:48,232 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:31:48,448 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531199365058_5070_n.jpg?_nc_cat=0&oh=8e3fd82058bc02f073128d97cd1164fd&oe=5BB5AA3D HTTP/1.1" 200 None
+2018-06-03 15:31:48,537 INFO: Saved image 120 of 316
+2018-06-03 15:31:48,540 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:31:48,756 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531199360068_4810_n.jpg?_nc_cat=0&oh=8099d3e2bfd0c0fa5ffecc322730e19c&oe=5BBBA9D9 HTTP/1.1" 200 None
+2018-06-03 15:31:48,804 INFO: Saved image 121 of 316
+2018-06-03 15:31:48,807 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:31:52,779 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531199355078_4534_n.jpg?_nc_cat=0&oh=ead489f27ff78557997a5414b7821a48&oe=5BC2651C HTTP/1.1" 200 None
+2018-06-03 15:31:53,934 INFO: Saved image 122 of 316
+2018-06-03 15:31:53,937 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:31:54,157 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531199350088_4273_n.jpg?_nc_cat=0&oh=8a8c6e71edfc981c8458a8aeaf040113&oe=5B78551F HTTP/1.1" 200 None
+2018-06-03 15:31:54,248 INFO: Saved image 123 of 316
+2018-06-03 15:31:54,250 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:31:54,527 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531199340108_3733_n.jpg?_nc_cat=0&oh=5551c43f47ba5049a02ff6f6d40aa4e6&oe=5BBDAB59 HTTP/1.1" 200 73076
+2018-06-03 15:31:54,905 INFO: Saved image 124 of 316
+2018-06-03 15:31:54,908 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:31:57,634 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531199335118_3475_n.jpg?_nc_cat=0&oh=2fe0cc4e9cd5ad5ed9332ff9ad71f742&oe=5BBE3227 HTTP/1.1" 200 None
+2018-06-03 15:31:58,565 INFO: Saved image 125 of 316
+2018-06-03 15:31:58,568 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:31:58,832 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531199325138_2967_n.jpg?_nc_cat=0&oh=cfefc9695ac0ae4be680334d6118771f&oe=5B7D1A23 HTTP/1.1" 200 43738
+2018-06-03 15:31:58,906 INFO: Saved image 126 of 316
+2018-06-03 15:31:58,909 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:31:59,150 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531199320148_2710_n.jpg?_nc_cat=0&oh=487c2135e7e10085531548305f3214fa&oe=5BBD4EF5 HTTP/1.1" 200 52318
+2018-06-03 15:31:59,230 INFO: Saved image 127 of 316
+2018-06-03 15:31:59,233 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:32:03,384 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531199315158_2466_n.jpg?_nc_cat=0&oh=d40edf6896edd0eb70c36e4e6f08f579&oe=5BB8E1EF HTTP/1.1" 200 None
+2018-06-03 15:32:04,293 INFO: Saved image 128 of 316
+2018-06-03 15:32:04,296 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:32:04,543 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531199310168_2204_n.jpg?_nc_cat=0&oh=cf0209385e63388e30b6698e71e79b6f&oe=5BB7758E HTTP/1.1" 200 None
+2018-06-03 15:32:04,646 INFO: Saved image 129 of 316
+2018-06-03 15:32:04,649 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:32:04,868 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531199305178_1941_n.jpg?_nc_cat=0&oh=317be4ae8a87af0d80c0e65d78eb0b5c&oe=5B7F6B92 HTTP/1.1" 200 None
+2018-06-03 15:32:05,124 INFO: Saved image 130 of 316
+2018-06-03 15:32:05,127 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:32:07,437 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531199300188_1694_n.jpg?_nc_cat=0&oh=bab11d02b5b53288e4f86f6f22eb3b41&oe=5B7ED68B HTTP/1.1" 200 None
+2018-06-03 15:32:08,225 INFO: Saved image 131 of 316
+2018-06-03 15:32:08,228 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:32:08,484 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531199295198_1451_n.jpg?_nc_cat=0&oh=69f3d80e51dccbcf76682a29446ac72c&oe=5BB19776 HTTP/1.1" 200 42399
+2018-06-03 15:32:08,561 INFO: Saved image 132 of 316
+2018-06-03 15:32:08,566 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:32:12,202 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531199290208_1204_n.jpg?_nc_cat=0&oh=fb432ebfc6da05165677c3378327555c&oe=5B854587 HTTP/1.1" 200 None
+2018-06-03 15:32:13,349 INFO: Saved image 133 of 316
+2018-06-03 15:32:13,352 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:32:13,615 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531199285218_945_n.jpg?_nc_cat=0&oh=752ebcb6a43d0d0061385696acaf3b47&oe=5BC05653 HTTP/1.1" 200 55845
+2018-06-03 15:32:13,706 INFO: Saved image 134 of 316
+2018-06-03 15:32:13,708 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:32:13,974 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531199280228_703_n.jpg?_nc_cat=0&oh=3ca3bacc8a6af48b256bd7e3ac3a0a4d&oe=5BB2F19C HTTP/1.1" 200 None
+2018-06-03 15:32:14,090 INFO: Saved image 135 of 316
+2018-06-03 15:32:14,095 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:32:14,612 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531194125558_3140_n.jpg?_nc_cat=0&oh=1565d8300eb5ac15920fa7213a737234&oe=5B80F11C HTTP/1.1" 200 None
+2018-06-03 15:32:14,703 INFO: Saved image 136 of 316
+2018-06-03 15:32:14,709 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:32:17,310 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531194120568_2851_n.jpg?_nc_cat=0&oh=f16b00a6c880779fcde87485da313f91&oe=5B85BF16 HTTP/1.1" 200 None
+2018-06-03 15:32:17,923 INFO: Saved image 137 of 316
+2018-06-03 15:32:17,926 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:32:18,132 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531194115578_2561_n.jpg?_nc_cat=0&oh=0ce7050109444c91051e0f330f468361&oe=5BC16E5E HTTP/1.1" 200 None
+2018-06-03 15:32:18,242 INFO: Saved image 138 of 316
+2018-06-03 15:32:18,245 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:32:18,511 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531194110588_2267_n.jpg?_nc_cat=0&oh=4c2e94289f4a405c996dd6282759454a&oe=5BBBBA13 HTTP/1.1" 200 88597
+2018-06-03 15:32:18,631 INFO: Saved image 139 of 316
+2018-06-03 15:32:18,635 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:32:22,427 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531194100608_1697_n.jpg?_nc_cat=0&oh=865a174e1b6a7dbf123a1e9e91555c75&oe=5BC47097 HTTP/1.1" 200 36569
+2018-06-03 15:32:23,277 INFO: Saved image 140 of 316
+2018-06-03 15:32:23,280 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:32:23,500 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531194095618_1424_n.jpg?_nc_cat=0&oh=969e760acb8565de4953d5877adbf000&oe=5B815D49 HTTP/1.1" 200 None
+2018-06-03 15:32:23,583 INFO: Saved image 141 of 316
+2018-06-03 15:32:23,586 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:32:23,822 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531194090628_1146_n.jpg?_nc_cat=0&oh=ac666876e11ae1fb7e3235e03733d2d9&oe=5BB084ED HTTP/1.1" 200 33042
+2018-06-03 15:32:23,873 INFO: Saved image 142 of 316
+2018-06-03 15:32:23,876 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:32:27,207 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531194085638_865_n.jpg?_nc_cat=0&oh=b9bdbbc6ad73bcadebff5d44b80afed5&oe=5B7CE515 HTTP/1.1" 200 None
+2018-06-03 15:32:28,329 INFO: Saved image 143 of 316
+2018-06-03 15:32:28,333 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:32:28,559 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531194080648_613_n.jpg?_nc_cat=0&oh=90f0c447e7cd0c6dd65eba233cbd0640&oe=5BC32D46 HTTP/1.1" 200 None
+2018-06-03 15:32:28,669 INFO: Saved image 144 of 316
+2018-06-03 15:32:28,672 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:32:28,958 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531194075658_358_n.jpg?_nc_cat=0&oh=02a9f993b1ef2a7b088372d00b25bc9f&oe=5B81EF96 HTTP/1.1" 200 48650
+2018-06-03 15:32:29,036 INFO: Saved image 145 of 316
+2018-06-03 15:32:29,039 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:32:33,002 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531194070668_94_n.jpg?_nc_cat=0&oh=af6bd98586e9a4d1f0470b3e3bd60cc6&oe=5B76FD41 HTTP/1.1" 200 49959
+2018-06-03 15:32:33,647 INFO: Saved image 146 of 316
+2018-06-03 15:32:33,686 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:32:33,962 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531194065678_9828_n.jpg?_nc_cat=0&oh=7a08170c6e2798f1d2f419fa8ac85dad&oe=5B78173A HTTP/1.1" 200 None
+2018-06-03 15:32:34,033 INFO: Saved image 147 of 316
+2018-06-03 15:32:34,035 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:32:37,131 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531194060688_9570_n.jpg?_nc_cat=0&oh=3f21156d0d3206660e41662f83bb8f9f&oe=5B814AD0 HTTP/1.1" 200 None
+2018-06-03 15:32:38,039 INFO: Saved image 148 of 316
+2018-06-03 15:32:38,041 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:32:38,325 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531202329118_9812_n.jpg?_nc_cat=0&oh=3c3ae18e7738d77ca61855e449680efe&oe=5B77C1FF HTTP/1.1" 200 60598
+2018-06-03 15:32:38,416 INFO: Saved image 149 of 316
+2018-06-03 15:32:38,419 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:32:38,653 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531202319138_9195_n.jpg?_nc_cat=0&oh=4039a7d945f6259941601f6524d2b14e&oe=5B7FD326 HTTP/1.1" 200 None
+2018-06-03 15:32:38,742 INFO: Saved image 150 of 316
+2018-06-03 15:32:38,745 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:32:39,006 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531202304168_8581_n.jpg?_nc_cat=0&oh=c58569f823354887e7da07ed198ec8bf&oe=5BB9FD17 HTTP/1.1" 200 None
+2018-06-03 15:32:39,087 INFO: Saved image 151 of 316
+2018-06-03 15:32:39,089 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:32:42,819 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531202299178_8269_n.jpg?_nc_cat=0&oh=709054358e4846f7c8d5803c4e1db604&oe=5BB6149F HTTP/1.1" 200 48873
+2018-06-03 15:32:43,868 INFO: Saved image 152 of 316
+2018-06-03 15:32:43,906 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:32:44,203 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531202294188_7956_n.jpg?_nc_cat=0&oh=6d0f6d3248551d1795b9c36ce93d64e2&oe=5BBC40FC HTTP/1.1" 200 55977
+2018-06-03 15:32:44,293 INFO: Saved image 153 of 316
+2018-06-03 15:32:44,297 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:32:44,531 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531202289198_7656_n.jpg?_nc_cat=0&oh=9f3c9bfe3da4a2ef097da79ecde7638f&oe=5B853435 HTTP/1.1" 200 None
+2018-06-03 15:32:44,628 INFO: Saved image 154 of 316
+2018-06-03 15:32:44,631 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:32:47,749 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531202274228_6754_n.jpg?_nc_cat=0&oh=27bb35c1aef361f952e0d3c7bfcb96dd&oe=5B85952F HTTP/1.1" 200 None
+2018-06-03 15:32:48,902 INFO: Saved image 155 of 316
+2018-06-03 15:32:48,905 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:32:49,925 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531182733388_5267_n.jpg?_nc_cat=0&oh=ec5945d91444518f0a6073d14744fa3f&oe=5BB66213 HTTP/1.1" 200 None
+2018-06-03 15:32:50,105 INFO: Saved image 156 of 316
+2018-06-03 15:32:50,108 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:32:50,337 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531181850158_3081_n.jpg?_nc_cat=0&oh=e7f8a6e26e10db6b1b92b99159078711&oe=5BB14E23 HTTP/1.1" 200 None
+2018-06-03 15:32:50,437 INFO: Saved image 157 of 316
+2018-06-03 15:32:50,440 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:32:52,148 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531181805248_9570_n.jpg?_nc_cat=0&oh=a355548f44fc43f2a7773c5b28897f04&oe=5B794D7E HTTP/1.1" 200 None
+2018-06-03 15:32:52,572 INFO: Saved image 158 of 316
+2018-06-03 15:32:52,575 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:32:52,815 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531181800258_9265_n.jpg?_nc_cat=0&oh=699a4c893d6ee12bc9b1ef40ea638396&oe=5B809380 HTTP/1.1" 200 48180
+2018-06-03 15:32:52,896 INFO: Saved image 159 of 316
+2018-06-03 15:32:52,899 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:32:53,126 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531181795268_8959_n.jpg?_nc_cat=0&oh=2fbfdaf04f42882857fd8a6825a0ca8f&oe=5BB671BA HTTP/1.1" 200 63196
+2018-06-03 15:32:53,211 INFO: Saved image 160 of 316
+2018-06-03 15:32:53,214 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:32:57,855 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531167948018_7799_n.jpg?_nc_cat=0&oh=ea78339f1412010d33dffeec81cf7561&oe=5BBBC1CF HTTP/1.1" 200 None
+2018-06-03 15:32:59,519 INFO: Saved image 161 of 316
+2018-06-03 15:32:59,521 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:32:59,815 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531167943028_7523_n.jpg?_nc_cat=0&oh=526a2e36adfbd03f64e85101853078ca&oe=5BB67C61 HTTP/1.1" 200 42210
+2018-06-03 15:32:59,888 INFO: Saved image 162 of 316
+2018-06-03 15:32:59,891 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:33:01,778 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531167938038_7244_n.jpg?_nc_cat=0&oh=1500dea76f72bf9de4ea4a01cd799c17&oe=5B8830AF HTTP/1.1" 200 35975
+2018-06-03 15:33:02,236 INFO: Saved image 163 of 316
+2018-06-03 15:33:02,239 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:33:02,469 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531167933048_6958_n.jpg?_nc_cat=0&oh=8d4b8cabeb132e4b71fd3db7162f6462&oe=5B7F2F00 HTTP/1.1" 200 None
+2018-06-03 15:33:02,546 INFO: Saved image 164 of 316
+2018-06-03 15:33:02,549 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:33:02,825 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531167928058_6680_n.jpg?_nc_cat=0&oh=8dbbfa3eee1c34907c84fce3c65bdc41&oe=5BBB018D HTTP/1.1" 200 49066
+2018-06-03 15:33:02,911 INFO: Saved image 165 of 316
+2018-06-03 15:33:02,915 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:33:03,152 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531167918078_6128_n.jpg?_nc_cat=0&oh=b0894844e33f73501e32fe70fa27ff1d&oe=5B7B1352 HTTP/1.1" 200 41467
+2018-06-03 15:33:03,222 INFO: Saved image 166 of 316
+2018-06-03 15:33:03,225 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:33:09,418 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531167908098_5595_n.jpg?_nc_cat=0&oh=2ec8e3caedcf86c197d9c18d395067a6&oe=5BB912EA HTTP/1.1" 200 55425
+2018-06-03 15:33:10,982 INFO: Saved image 167 of 316
+2018-06-03 15:33:10,985 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:33:11,242 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531167903108_5324_n.jpg?_nc_cat=0&oh=a6cbf7c8d65c19cf184efeac2b82a1f7&oe=5BBD73E2 HTTP/1.1" 200 55813
+2018-06-03 15:33:11,318 INFO: Saved image 168 of 316
+2018-06-03 15:33:11,322 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:33:11,572 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531167898118_5051_n.jpg?_nc_cat=0&oh=ce085259c125f40c25e8f8cc2830f83e&oe=5B7F3D7F HTTP/1.1" 200 None
+2018-06-03 15:33:11,680 INFO: Saved image 169 of 316
+2018-06-03 15:33:11,684 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:33:12,113 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531167893128_4784_n.jpg?_nc_cat=0&oh=82bb9da6c3f1773e0eb1b9bda793b00b&oe=5BB1FDCE HTTP/1.1" 200 None
+2018-06-03 15:33:12,195 INFO: Saved image 170 of 316
+2018-06-03 15:33:12,198 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:33:12,428 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531167888138_4521_n.jpg?_nc_cat=0&oh=01d9af8dac1b88886f4f9fa1492add74&oe=5BB8AACD HTTP/1.1" 200 58691
+2018-06-03 15:33:12,513 INFO: Saved image 171 of 316
+2018-06-03 15:33:12,515 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:33:12,732 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531167883148_4252_n.jpg?_nc_cat=0&oh=8b66602282193db7735b8f750bd796d8&oe=5B86DF26 HTTP/1.1" 200 None
+2018-06-03 15:33:12,829 INFO: Saved image 172 of 316
+2018-06-03 15:33:12,834 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:33:17,583 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531167878158_3992_n.jpg?_nc_cat=0&oh=5eb344a04cd81be323aa7b606f601c46&oe=5B7BA58C HTTP/1.1" 200 53152
+2018-06-03 15:33:18,909 INFO: Saved image 173 of 316
+2018-06-03 15:33:18,911 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:33:19,162 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531167868178_3470_n.jpg?_nc_cat=0&oh=2a5c91e6a53dde9e7b473e0798485f0c&oe=5B77FD1A HTTP/1.1" 200 52963
+2018-06-03 15:33:19,235 INFO: Saved image 174 of 316
+2018-06-03 15:33:19,237 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:33:19,455 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531167863188_3205_n.jpg?_nc_cat=0&oh=d3d998e33554120b83b970cdca91a004&oe=5BBC19E5 HTTP/1.1" 200 63804
+2018-06-03 15:33:19,543 INFO: Saved image 175 of 316
+2018-06-03 15:33:19,546 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:33:22,232 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531167858198_2931_n.jpg?_nc_cat=0&oh=9ba34b340b5ce41f0f38c534a52f4b8c&oe=5BC4AF7F HTTP/1.1" 200 None
+2018-06-03 15:33:23,133 INFO: Saved image 176 of 316
+2018-06-03 15:33:23,135 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:33:23,391 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531167853208_2672_n.jpg?_nc_cat=0&oh=e4de9c5b9ff52297229041d011f376e1&oe=5BBAB904 HTTP/1.1" 200 73114
+2018-06-03 15:33:23,479 INFO: Saved image 177 of 316
+2018-06-03 15:33:23,482 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:33:27,878 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531167843228_2168_n.jpg?_nc_cat=0&oh=e21438f0e9835a7e60c05efa38234c41&oe=5B84C6C7 HTTP/1.1" 200 None
+2018-06-03 15:33:28,989 INFO: Saved image 178 of 316
+2018-06-03 15:33:28,992 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:33:29,234 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531167838238_1911_n.jpg?_nc_cat=0&oh=6ebdba1763f2347fccd75ec6688bbb81&oe=5B7B4E18 HTTP/1.1" 200 62935
+2018-06-03 15:33:29,318 INFO: Saved image 179 of 316
+2018-06-03 15:33:29,321 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:33:29,543 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531167833248_1670_n.jpg?_nc_cat=0&oh=61d4c1c526631e41da4008c3b3454890&oe=5BB9015C HTTP/1.1" 200 None
+2018-06-03 15:33:29,723 INFO: Saved image 180 of 316
+2018-06-03 15:33:29,726 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:33:30,064 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531167828258_1321_n.jpg?_nc_cat=0&oh=0641a1a30e36f69b365ee03308773923&oe=5BB89129 HTTP/1.1" 200 56263
+2018-06-03 15:33:30,379 INFO: Saved image 181 of 316
+2018-06-03 15:33:30,382 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:33:31,983 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531167823268_1018_n.jpg?_nc_cat=0&oh=24a62f94e1dd3ed4ff4ca160e85e3ef5&oe=5BBF81EC HTTP/1.1" 200 79755
+2018-06-03 15:33:32,367 INFO: Saved image 182 of 316
+2018-06-03 15:33:32,370 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:33:32,581 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531167818278_766_n.jpg?_nc_cat=0&oh=35375bc9cb9ed8bfd591642bdf69f93f&oe=5BB99E27 HTTP/1.1" 200 None
+2018-06-03 15:33:32,680 INFO: Saved image 183 of 316
+2018-06-03 15:33:32,685 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:33:39,112 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531167813288_520_n.jpg?_nc_cat=0&oh=8ea53d5b0e05f6e4feab383fa2ed65ec&oe=5BBAB0FD HTTP/1.1" 200 None
+2018-06-03 15:33:41,239 INFO: Saved image 184 of 316
+2018-06-03 15:33:41,275 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:33:41,537 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531167808298_275_n.jpg?_nc_cat=0&oh=d0f5078e73d124c177891d4639a2a7b6&oe=5BBF199D HTTP/1.1" 200 None
+2018-06-03 15:33:41,623 INFO: Saved image 185 of 316
+2018-06-03 15:33:41,626 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:33:41,930 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531167803308_31_n.jpg?_nc_cat=0&oh=37e40d2b6a1f30ee9bfd237cd335d50c&oe=5B78F2D3 HTTP/1.1" 200 None
+2018-06-03 15:33:42,012 INFO: Saved image 186 of 316
+2018-06-03 15:33:42,015 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:33:42,550 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531167798318_9789_n.jpg?_nc_cat=0&oh=e01c0ed1f1516ac11b19ba77b112eab1&oe=5BB3D2F6 HTTP/1.1" 200 47761
+2018-06-03 15:33:42,641 INFO: Saved image 187 of 316
+2018-06-03 15:33:42,644 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:33:43,216 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531167793328_9544_n.jpg?_nc_cat=0&oh=228715428c0a5bc07f5536e19d91487a&oe=5B8346CF HTTP/1.1" 200 61303
+2018-06-03 15:33:43,416 INFO: Saved image 188 of 316
+2018-06-03 15:33:43,419 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:33:43,669 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531167788338_9303_n.jpg?_nc_cat=0&oh=9c9d048bfe5c834e85844f3aeedef77c&oe=5BB179DB HTTP/1.1" 200 None
+2018-06-03 15:33:43,742 INFO: Saved image 189 of 316
+2018-06-03 15:33:43,745 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:33:43,952 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531167778358_8814_n.jpg?_nc_cat=0&oh=483537a832e42b6d49c403402db44820&oe=5BB1D4CF HTTP/1.1" 200 None
+2018-06-03 15:33:44,189 INFO: Saved image 190 of 316
+2018-06-03 15:33:44,191 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:33:47,724 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531167773368_8585_n.jpg?_nc_cat=0&oh=9c1de7f784a4797eb37249b64efd32ca&oe=5B771337 HTTP/1.1" 200 None
+2018-06-03 15:33:48,467 INFO: Saved image 191 of 316
+2018-06-03 15:33:48,469 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:33:48,695 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531167199518_8443_n.jpg?_nc_cat=0&oh=c91ffa2ce087377cf1e3f04b4426ce32&oe=5BBE4D5A HTTP/1.1" 200 None
+2018-06-03 15:33:48,773 INFO: Saved image 192 of 316
+2018-06-03 15:33:48,776 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:33:52,779 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531167189538_8063_n.jpg?_nc_cat=0&oh=af25c08c4143e6e6a913733239f86d2d&oe=5BBB22F1 HTTP/1.1" 200 None
+2018-06-03 15:33:53,884 INFO: Saved image 193 of 316
+2018-06-03 15:33:53,922 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:33:54,191 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531167174568_7346_n.jpg?_nc_cat=0&oh=ed6039e73dc2229a53fbf23a420fbc66&oe=5BB55146 HTTP/1.1" 200 54694
+2018-06-03 15:33:54,272 INFO: Saved image 194 of 316
+2018-06-03 15:33:54,275 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:33:54,485 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531167169578_7108_n.jpg?_nc_cat=0&oh=cdbefc5f8dd5de2fd9e962dc396e914d&oe=5BBBD87F HTTP/1.1" 200 None
+2018-06-03 15:33:54,564 INFO: Saved image 195 of 316
+2018-06-03 15:33:54,566 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:33:54,793 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531167164588_6873_n.jpg?_nc_cat=0&oh=8788f0fed9376eb5765c1b43132fe3cd&oe=5BBD2DC0 HTTP/1.1" 200 42567
+2018-06-03 15:33:54,860 INFO: Saved image 196 of 316
+2018-06-03 15:33:54,864 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:33:56,810 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531167159598_6638_n.jpg?_nc_cat=0&oh=8f4ef1e903f485ba8ab8accb0aa91575&oe=5B78E029 HTTP/1.1" 200 60169
+2018-06-03 15:33:57,458 INFO: Saved image 197 of 316
+2018-06-03 15:33:57,460 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:33:57,759 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531167149618_6171_n.jpg?_nc_cat=0&oh=9104f725bdb580d8a90d433d43a0694e&oe=5B872FEE HTTP/1.1" 200 63535
+2018-06-03 15:33:57,844 INFO: Saved image 198 of 316
+2018-06-03 15:33:57,847 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:34:03,160 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531156071818_2298_n.jpg?_nc_cat=0&oh=f18a1317506e11bb8092528fbedd8f48&oe=5BC0344E HTTP/1.1" 200 43833
+2018-06-03 15:34:04,599 INFO: Saved image 199 of 316
+2018-06-03 15:34:04,601 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:34:07,607 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531156066828_1986_n.jpg?_nc_cat=0&oh=0a8d2274355199e16c4063dfe53e9547&oe=5B82AE16 HTTP/1.1" 200 None
+2018-06-03 15:34:07,712 INFO: Saved image 200 of 316
+2018-06-03 15:34:07,714 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:34:07,941 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531156061838_1666_n.jpg?_nc_cat=0&oh=f39ab13ad7b51a88d1150ee2c414dea3&oe=5B79756A HTTP/1.1" 200 None
+2018-06-03 15:34:08,010 INFO: Saved image 201 of 316
+2018-06-03 15:34:08,012 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:34:08,245 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531156056848_1383_n.jpg?_nc_cat=0&oh=dc1da37408985e465711d97a2468eaf8&oe=5BB50500 HTTP/1.1" 200 38085
+2018-06-03 15:34:08,308 INFO: Saved image 202 of 316
+2018-06-03 15:34:08,310 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:34:08,968 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531156051858_1097_n.jpg?_nc_cat=0&oh=a38ccf312fca8586db58ffdd75a56752&oe=5BB4A0D7 HTTP/1.1" 200 None
+2018-06-03 15:34:09,062 INFO: Saved image 203 of 316
+2018-06-03 15:34:09,064 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:34:09,359 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531156046868_832_n.jpg?_nc_cat=0&oh=80a34d682cbcda30d63a929bea6116ab&oe=5BB668AD HTTP/1.1" 200 32352
+2018-06-03 15:34:09,405 INFO: Saved image 204 of 316
+2018-06-03 15:34:09,408 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:34:09,638 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531156041878_523_n.jpg?_nc_cat=0&oh=f6b10ef8cd981d6fab06df31c5c0ca17&oe=5B81F87F HTTP/1.1" 200 50599
+2018-06-03 15:34:09,714 INFO: Saved image 205 of 316
+2018-06-03 15:34:09,720 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:34:12,428 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531156036888_225_n.jpg?_nc_cat=0&oh=abec7722685029e46d3dabbded81ed8d&oe=5BBA9427 HTTP/1.1" 200 None
+2018-06-03 15:34:13,243 INFO: Saved image 206 of 316
+2018-06-03 15:34:13,245 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:34:13,502 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531156031898_9916_n.jpg?_nc_cat=0&oh=feb0eb415625c713fd738c85c4144125&oe=5BBBDE66 HTTP/1.1" 200 38180
+2018-06-03 15:34:13,555 INFO: Saved image 207 of 316
+2018-06-03 15:34:13,558 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:34:19,128 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531156026908_9607_n.jpg?_nc_cat=0&oh=802eff40354857bf498496bc7197412f&oe=5B7FE088 HTTP/1.1" 200 49873
+2018-06-03 15:34:19,936 INFO: Saved image 208 of 316
+2018-06-03 15:34:19,939 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:34:20,188 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531156011938_9136_n.jpg?_nc_cat=0&oh=a5c68dd95ff6fb602b3a69d8b4602136&oe=5BC45C30 HTTP/1.1" 200 75941
+2018-06-03 15:34:20,281 INFO: Saved image 209 of 316
+2018-06-03 15:34:20,286 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:34:20,559 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531156006948_8842_n.jpg?_nc_cat=0&oh=7969526bca815f768e719db7eb3ea4e2&oe=5BB1408C HTTP/1.1" 200 48185
+2018-06-03 15:34:20,769 INFO: Saved image 210 of 316
+2018-06-03 15:34:20,772 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:34:21,591 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531156001958_8547_n.jpg?_nc_cat=0&oh=dbd869ce5b4e4fa1323823d96662773c&oe=5B7A7DE3 HTTP/1.1" 200 None
+2018-06-03 15:34:21,666 INFO: Saved image 211 of 316
+2018-06-03 15:34:21,669 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:34:21,898 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531155996968_8260_n.jpg?_nc_cat=0&oh=c96915eb7ea53e3cdd28f211fe34acd9&oe=5BBAEF6C HTTP/1.1" 200 None
+2018-06-03 15:34:21,949 INFO: Saved image 212 of 316
+2018-06-03 15:34:21,953 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:34:22,431 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531155991978_7960_n.jpg?_nc_cat=0&oh=7c85b9312fb645c69a6bc59b895f484f&oe=5B79E5A3 HTTP/1.1" 200 53869
+2018-06-03 15:34:22,511 INFO: Saved image 213 of 316
+2018-06-03 15:34:22,514 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:34:29,214 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531155986988_7672_n.jpg?_nc_cat=0&oh=23372cba9e5f8597060a3984f0ae3793&oe=5B81427B HTTP/1.1" 200 None
+2018-06-03 15:34:30,664 INFO: Saved image 214 of 316
+2018-06-03 15:34:30,667 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:34:31,977 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531155981998_7373_n.jpg?_nc_cat=0&oh=3df0898056c4f3870c206cb6888efb14&oe=5BBD501F HTTP/1.1" 200 None
+2018-06-03 15:34:32,304 INFO: Saved image 215 of 316
+2018-06-03 15:34:32,307 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:34:32,523 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531155977008_7080_n.jpg?_nc_cat=0&oh=555c6998c476ec4626aff680dcee5840&oe=5B76918B HTTP/1.1" 200 None
+2018-06-03 15:34:32,598 INFO: Saved image 216 of 316
+2018-06-03 15:34:32,601 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:34:32,856 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531155972018_6786_n.jpg?_nc_cat=0&oh=f66488a2fbca410f2e11946075ca7dab&oe=5B838248 HTTP/1.1" 200 38222
+2018-06-03 15:34:32,917 INFO: Saved image 217 of 316
+2018-06-03 15:34:32,921 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:34:33,351 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531151840298_3574_n.jpg?_nc_cat=0&oh=cfa7c40888341c51c82e0924d7e0df29&oe=5B7676E9 HTTP/1.1" 200 53015
+2018-06-03 15:34:33,434 INFO: Saved image 218 of 316
+2018-06-03 15:34:33,437 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:34:33,667 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531151835308_3299_n.jpg?_nc_cat=0&oh=4145211fd1f0e149c0873a22390ccfd1&oe=5B779BB2 HTTP/1.1" 200 49327
+2018-06-03 15:34:33,748 INFO: Saved image 219 of 316
+2018-06-03 15:34:33,751 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:34:34,000 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531151695588_2025_n.jpg?_nc_cat=0&oh=38318818fc05e8b86dc661808594f1db&oe=5BB94449 HTTP/1.1" 200 None
+2018-06-03 15:34:34,121 INFO: Saved image 220 of 316
+2018-06-03 15:34:34,125 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:34:37,378 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531159380188_4311_n.jpg?_nc_cat=0&oh=d286045267009471ac2c74418a210ca6&oe=5BB2C9BA HTTP/1.1" 200 None
+2018-06-03 15:34:38,425 INFO: Saved image 221 of 316
+2018-06-03 15:34:38,428 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:34:38,690 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531159375198_3981_n.jpg?_nc_cat=0&oh=779a3877ba5d4b2945268fff5068a232&oe=5BBD1242 HTTP/1.1" 200 67473
+2018-06-03 15:34:38,783 INFO: Saved image 222 of 316
+2018-06-03 15:34:38,785 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:34:42,014 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531156241478_3368_n.jpg?_nc_cat=0&oh=aa8585f9ad4d61ae774b0c3cb29b46eb&oe=5B7F925A HTTP/1.1" 200 None
+2018-06-03 15:34:43,020 INFO: Saved image 223 of 316
+2018-06-03 15:34:43,023 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:34:43,289 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531156236488_2994_n.jpg?_nc_cat=0&oh=b525446960210541f0d2409f7f0839f8&oe=5B85A378 HTTP/1.1" 200 43888
+2018-06-03 15:34:43,371 INFO: Saved image 224 of 316
+2018-06-03 15:34:43,374 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:34:43,663 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531156226508_2230_n.jpg?_nc_cat=0&oh=a3905f1fae4ea6c954d4b08868a2bb91&oe=5BB654F4 HTTP/1.1" 200 39192
+2018-06-03 15:34:43,723 INFO: Saved image 225 of 316
+2018-06-03 15:34:43,726 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:34:47,319 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531156221518_1865_n.jpg?_nc_cat=0&oh=1058bc7c87bd133fbd93e1b5469a43ee&oe=5BB89E35 HTTP/1.1" 200 None
+2018-06-03 15:34:48,221 INFO: Saved image 226 of 316
+2018-06-03 15:34:48,414 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:34:48,682 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531156216528_1511_n.jpg?_nc_cat=0&oh=4956233b939018c6baa87445892cacc6&oe=5B88044E HTTP/1.1" 200 51868
+2018-06-03 15:34:48,766 INFO: Saved image 227 of 316
+2018-06-03 15:34:48,771 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:34:49,039 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531156211538_1147_n.jpg?_nc_cat=0&oh=6d57f626df2b5d5c7ec7f2c3fd954ac4&oe=5BB31683 HTTP/1.1" 200 None
+2018-06-03 15:34:49,138 INFO: Saved image 228 of 316
+2018-06-03 15:34:49,141 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:34:53,980 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531156206548_795_n.jpg?_nc_cat=0&oh=a6a789abd5f8c6c6401d6168faedcee5&oe=5B862FDB HTTP/1.1" 200 63297
+2018-06-03 15:34:55,154 INFO: Saved image 229 of 316
+2018-06-03 15:34:55,191 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:34:57,418 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531156201558_433_n.jpg?_nc_cat=0&oh=8b890b1c8b59b2663720fe3b223b602d&oe=5BBFCE43 HTTP/1.1" 200 None
+2018-06-03 15:34:58,025 INFO: Saved image 230 of 316
+2018-06-03 15:34:58,027 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:34:58,260 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531156196568_78_n.jpg?_nc_cat=0&oh=826877970dcf88baa8d84d7d795f6834&oe=5B797170 HTTP/1.1" 200 None
+2018-06-03 15:34:58,340 INFO: Saved image 231 of 316
+2018-06-03 15:34:58,342 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:34:58,558 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531156191578_9723_n.jpg?_nc_cat=0&oh=a2ff0f1b4665ef5376645597c306ed85&oe=5B7A7034 HTTP/1.1" 200 None
+2018-06-03 15:34:58,673 INFO: Saved image 232 of 316
+2018-06-03 15:34:58,675 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:34:58,908 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531156186588_9372_n.jpg?_nc_cat=0&oh=797f44a9e28ae1d35ccc224ac555a5ba&oe=5BBFE456 HTTP/1.1" 200 76851
+2018-06-03 15:34:59,018 INFO: Saved image 233 of 316
+2018-06-03 15:34:59,020 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:34:59,236 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531156176608_8820_n.jpg?_nc_cat=0&oh=9a619136cb94a50cc67d8aa155cc74cc&oe=5BBC2074 HTTP/1.1" 200 None
+2018-06-03 15:34:59,308 INFO: Saved image 234 of 316
+2018-06-03 15:34:59,311 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:34:59,602 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531156171618_8473_n.jpg?_nc_cat=0&oh=e7f0bcb42ad8cb0275674ab9f0987eda&oe=5BC33C06 HTTP/1.1" 200 57417
+2018-06-03 15:34:59,691 INFO: Saved image 235 of 316
+2018-06-03 15:34:59,694 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:35:02,852 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531156166628_8137_n.jpg?_nc_cat=0&oh=f2dc637b0e760be065e63276b6b079c6&oe=5B7B52E5 HTTP/1.1" 200 None
+2018-06-03 15:35:04,237 INFO: Saved image 236 of 316
+2018-06-03 15:35:04,239 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:35:04,929 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531156156648_7458_n.jpg?_nc_cat=0&oh=cca5252ebda6a0b8921d45bbe0dbdea4&oe=5BB93866 HTTP/1.1" 200 53960
+2018-06-03 15:35:05,009 INFO: Saved image 237 of 316
+2018-06-03 15:35:05,012 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:35:07,176 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531156151658_7112_n.jpg?_nc_cat=0&oh=a000f34cb8f233507ff914c65610cac1&oe=5B7FE602 HTTP/1.1" 200 None
+2018-06-03 15:35:07,675 INFO: Saved image 238 of 316
+2018-06-03 15:35:07,678 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:35:07,956 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531156146668_6771_n.jpg?_nc_cat=0&oh=92cec389bfea7b5f1c78ab25dd0cc50b&oe=5B87CEE9 HTTP/1.1" 200 63864
+2018-06-03 15:35:08,049 INFO: Saved image 239 of 316
+2018-06-03 15:35:08,051 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:35:08,272 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531156141678_6446_n.jpg?_nc_cat=0&oh=fbe474a51b7c7f28c8f11c2b13da6bd0&oe=5B8717DE HTTP/1.1" 200 None
+2018-06-03 15:35:08,321 INFO: Saved image 240 of 316
+2018-06-03 15:35:08,324 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:35:12,277 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531156131698_6115_n.jpg?_nc_cat=0&oh=5e77c728f3f506276ef3d803039d9abe&oe=5BBF7DAD HTTP/1.1" 200 44298
+2018-06-03 15:35:13,346 INFO: Saved image 241 of 316
+2018-06-03 15:35:13,349 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:35:13,571 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531156121718_5458_n.jpg?_nc_cat=0&oh=ba3040202c63b10bc86a79e67a91bda8&oe=5BB82451 HTTP/1.1" 200 None
+2018-06-03 15:35:13,682 INFO: Saved image 242 of 316
+2018-06-03 15:35:13,684 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:35:13,924 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531156116728_5134_n.jpg?_nc_cat=0&oh=b074e6a9935d9e3f4667a4385f8e6433&oe=5B7E2DCB HTTP/1.1" 200 39614
+2018-06-03 15:35:13,974 INFO: Saved image 243 of 316
+2018-06-03 15:35:13,977 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:35:17,402 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531156101758_4164_n.jpg?_nc_cat=0&oh=227881250155d53ca7353261ad1ce4ed&oe=5B87AD42 HTTP/1.1" 200 42121
+2018-06-03 15:35:18,450 INFO: Saved image 244 of 316
+2018-06-03 15:35:18,453 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:35:22,899 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531156096768_3843_n.jpg?_nc_cat=0&oh=539515db34210a43aba5e506ce74e893&oe=5B7878DA HTTP/1.1" 200 42562
+2018-06-03 15:35:23,785 INFO: Saved image 245 of 316
+2018-06-03 15:35:23,788 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:35:23,995 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531156091778_3529_n.jpg?_nc_cat=0&oh=1e4caba186f37d9af4ee5b1b48235442&oe=5B78F7DB HTTP/1.1" 200 None
+2018-06-03 15:35:24,062 INFO: Saved image 246 of 316
+2018-06-03 15:35:24,065 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:35:24,294 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531156086788_3208_n.jpg?_nc_cat=0&oh=6e7010efa1ed78b90a0a30d8aeb4ead4&oe=5BBB2165 HTTP/1.1" 200 33144
+2018-06-03 15:35:24,342 INFO: Saved image 247 of 316
+2018-06-03 15:35:24,345 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:35:24,720 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531156081798_2899_n.jpg?_nc_cat=0&oh=11412bc899947080a388954c6aada1cc&oe=5B7D12C5 HTTP/1.1" 200 None
+2018-06-03 15:35:24,768 INFO: Saved image 248 of 316
+2018-06-03 15:35:24,772 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:35:24,989 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531156076808_2600_n.jpg?_nc_cat=0&oh=956f4b0adba8b4c99392953f4eab8127&oe=5B7DCF91 HTTP/1.1" 200 None
+2018-06-03 15:35:25,091 INFO: Saved image 249 of 316
+2018-06-03 15:35:25,094 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:35:25,513 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1916911_564333988008_1738497_n.jpg?_nc_cat=0&oh=4dd45548823ebb1b34b6a0b285865262&oe=5B7E60DB HTTP/1.1" 200 None
+2018-06-03 15:35:25,595 INFO: Saved image 250 of 316
+2018-06-03 15:35:25,598 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:35:27,493 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t31.0-8/965827_974701997228_831304635_o.jpg?_nc_cat=0&oh=18e69601b90129e1f210cc21c4f81be9&oe=5BBE23B8 HTTP/1.1" 200 None
+2018-06-03 15:35:28,709 INFO: Saved image 251 of 316
+2018-06-03 15:35:28,712 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:35:28,945 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t31.0-8/460705_974508524948_1891185406_o.jpg?_nc_cat=0&oh=2035cb2ece6ff2aca6b9abc2a287badc&oe=5B81C68C HTTP/1.1" 200 None
+2018-06-03 15:35:29,413 INFO: Saved image 252 of 316
+2018-06-03 15:35:29,416 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:35:33,760 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t31.0-8/460117_974508010978_1502168562_o.jpg?_nc_cat=0&oh=d93199a0e087530c0c65e0071e855ce5&oe=5BBDA558 HTTP/1.1" 200 None
+2018-06-03 15:35:35,837 INFO: Saved image 253 of 316
+2018-06-03 15:35:35,843 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:35:36,092 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t31.0-8/964999_974507821358_824195553_o.jpg?_nc_cat=0&oh=39b31c153e67c4b9138ab9784ae9d95a&oe=5BC1B289 HTTP/1.1" 200 527638
+2018-06-03 15:35:36,444 INFO: Saved image 254 of 316
+2018-06-03 15:35:36,448 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:35:36,703 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t31.0-8/467435_974507741518_406965370_o.jpg?_nc_cat=0&oh=da889617d290d2bf6f3a6923de790ece&oe=5B8686EF HTTP/1.1" 200 None
+2018-06-03 15:35:36,936 INFO: Saved image 255 of 316
+2018-06-03 15:35:36,940 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:35:38,587 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t31.0-8/464546_974507576848_1153058586_o.jpg?_nc_cat=0&oh=5539420089498a0d10d0bee0085f456c&oe=5B7D0AFE HTTP/1.1" 200 None
+2018-06-03 15:35:38,918 INFO: Saved image 256 of 316
+2018-06-03 15:35:38,922 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:35:40,841 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t31.0-8/964033_974507292418_2122365701_o.jpg?_nc_cat=0&oh=282f276395f6d8332a2b4e5fa09c8b59&oe=5B81B262 HTTP/1.1" 200 None
+2018-06-03 15:35:44,812 INFO: Saved image 257 of 316
+2018-06-03 15:35:45,193 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:35:45,781 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t31.0-8/679936_974507267468_494545284_o.jpg?_nc_cat=0&oh=fac84a5eee7b7c3b85b1bed0a8f35406&oe=5B7E08D4 HTTP/1.1" 200 None
+2018-06-03 15:35:45,965 INFO: Saved image 258 of 316
+2018-06-03 15:35:45,967 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:35:46,182 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t31.0-8/919377_965256286508_1945705534_o.jpg?_nc_cat=0&oh=024e4cccefc3314212504af59f45e674&oe=5B87EB15 HTTP/1.1" 200 None
+2018-06-03 15:35:48,612 INFO: Saved image 259 of 316
+2018-06-03 15:35:49,230 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:35:49,751 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t31.0-8/819331_923957769068_577186306_o.jpg?_nc_cat=0&oh=f9d894a743dbebc57c0b4b11ab132d0a&oe=5BC05AFE HTTP/1.1" 200 None
+2018-06-03 15:35:51,138 INFO: Saved image 260 of 316
+2018-06-03 15:35:51,141 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:35:51,376 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t31.0-8/469271_466488336737302_6730468_o.jpg?_nc_cat=0&oh=c97c665cc62a6bc7c524b1ccf72beb51&oe=5BBDBAEB HTTP/1.1" 200 None
+2018-06-03 15:35:51,644 INFO: Saved image 261 of 316
+2018-06-03 15:35:51,647 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:35:51,881 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/379818_263514903708752_1316297710_n.jpg?_nc_cat=0&oh=f6accf68a5e056647f2cc7528f005b38&oe=5BC32A69 HTTP/1.1" 200 None
+2018-06-03 15:35:51,968 INFO: Saved image 262 of 316
+2018-06-03 15:35:51,970 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:35:52,211 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/313688_238329872893922_1113811923_n.jpg?_nc_cat=0&oh=ab6bcd194b80c0e9c57cd9b86d0dc9c5&oe=5BB0CCE1 HTTP/1.1" 200 None
+2018-06-03 15:35:52,257 INFO: Saved image 263 of 316
+2018-06-03 15:35:52,259 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:35:52,461 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/300293_233793860014190_1518842711_n.jpg?_nc_cat=0&oh=6d6d35939b0534d9a7ecff1ff06b67b8&oe=5B7B5123 HTTP/1.1" 200 51690
+2018-06-03 15:35:52,537 INFO: Saved image 264 of 316
+2018-06-03 15:35:52,541 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:35:52,793 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531167184548_7815_n.jpg?_nc_cat=0&oh=3f392cac5d9efed916f6933281e969df&oe=5BB95513 HTTP/1.1" 200 54523
+2018-06-03 15:35:52,871 INFO: Saved image 265 of 316
+2018-06-03 15:35:52,874 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:35:53,187 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531202324128_9498_n.jpg?_nc_cat=0&oh=5430606940809818b08cad2c89a80576&oe=5B879DD2 HTTP/1.1" 200 58710
+2018-06-03 15:35:53,277 INFO: Saved image 266 of 316
+2018-06-03 15:35:53,279 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:35:53,566 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/39717_587883973648_1583206_n.jpg?_nc_cat=0&oh=dc051ff524bdd8b78ed835db95dbf264&oe=5B78525B HTTP/1.1" 200 None
+2018-06-03 15:35:53,721 INFO: Saved image 267 of 316
+2018-06-03 15:35:53,724 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:35:59,861 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1929005_562541689788_2158839_n.jpg?_nc_cat=0&oh=0b5d0787dfb60eb0954a461796bba06c&oe=5B7E03BD HTTP/1.1" 200 None
+2018-06-03 15:36:01,943 INFO: Saved image 268 of 316
+2018-06-03 15:36:01,946 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:36:03,514 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1931319_531605635888_4453_n.jpg?_nc_cat=0&oh=29afddd68fcae4895ba9109e44bcfea5&oe=5B80463D HTTP/1.1" 200 None
+2018-06-03 15:36:03,752 INFO: Saved image 269 of 316
+2018-06-03 15:36:03,755 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:36:04,022 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/2443_535064409478_1935_n.jpg?_nc_cat=0&oh=14fafcb6d6c41d538d60d336748b9760&oe=5B8492A3 HTTP/1.1" 200 None
+2018-06-03 15:36:04,103 INFO: Saved image 270 of 316
+2018-06-03 15:36:04,106 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:36:04,337 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/2443_535064449398_1268_n.jpg?_nc_cat=0&oh=4c8c154b4d4fbb805a996efc5a824cf7&oe=5BB5F32D HTTP/1.1" 200 None
+2018-06-03 15:36:04,410 INFO: Saved image 271 of 316
+2018-06-03 15:36:04,413 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:36:06,944 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/2443_535062682938_7840_n.jpg?_nc_cat=0&oh=fba6e2014b9ed9e5a0a65c7392a98792&oe=5B7E4127 HTTP/1.1" 200 None
+2018-06-03 15:36:07,943 INFO: Saved image 272 of 316
+2018-06-03 15:36:07,945 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:36:08,306 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/5127_553999633138_989749_n.jpg?_nc_cat=0&oh=8ac5e23e0b932fb7ffaec132fbefa7e8&oe=5BC4CE52 HTTP/1.1" 200 None
+2018-06-03 15:36:08,355 INFO: Saved image 273 of 316
+2018-06-03 15:36:08,359 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:36:12,157 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1934747_554788083078_3786744_n.jpg?_nc_cat=0&oh=11cfc3ce9dfa9a2da6f0c19cf39ee476&oe=5B7F4829 HTTP/1.1" 200 None
+2018-06-03 15:36:13,196 INFO: Saved image 274 of 316
+2018-06-03 15:36:13,199 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:36:13,444 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1936326_560049444268_4584022_n.jpg?_nc_cat=0&oh=a22acb1e1e51a5809406582e0abbb142&oe=5BC35C91 HTTP/1.1" 200 None
+2018-06-03 15:36:13,532 INFO: Saved image 275 of 316
+2018-06-03 15:36:13,535 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:36:16,990 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1936326_560050082988_6525439_n.jpg?_nc_cat=0&oh=c73c5a532d18f0fde68382b22efad5f2&oe=5BB5442A HTTP/1.1" 200 None
+2018-06-03 15:36:17,775 INFO: Saved image 276 of 316
+2018-06-03 15:36:17,778 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:36:18,011 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1936326_560055162808_6648933_n.jpg?_nc_cat=0&oh=7ad583a97d41b84b362438851c31d756&oe=5B81A0C9 HTTP/1.1" 200 None
+2018-06-03 15:36:18,105 INFO: Saved image 277 of 316
+2018-06-03 15:36:18,108 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:36:18,409 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1936326_560049284588_5801633_n.jpg?_nc_cat=0&oh=aa1848729994193b0745e6cc3ede09a9&oe=5B7AB109 HTTP/1.1" 200 None
+2018-06-03 15:36:18,635 INFO: Saved image 278 of 316
+2018-06-03 15:36:18,637 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:36:18,904 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1936326_560798388378_6140068_n.jpg?_nc_cat=0&oh=23a278dc39ffca6a5bae1ab0074785c5&oe=5B84C970 HTTP/1.1" 200 None
+2018-06-03 15:36:19,025 INFO: Saved image 279 of 316
+2018-06-03 15:36:19,028 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:36:19,361 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1936326_561427637358_3013296_n.jpg?_nc_cat=0&oh=80bb0c18d08040c5a276474a56a0d77e&oe=5B86D776 HTTP/1.1" 200 None
+2018-06-03 15:36:19,463 INFO: Saved image 280 of 316
+2018-06-03 15:36:19,467 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:36:19,767 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1936326_562056756598_2489753_n.jpg?_nc_cat=0&oh=29909eb0dc16e989f6a0a43da328d544&oe=5B806676 HTTP/1.1" 200 None
+2018-06-03 15:36:19,926 INFO: Saved image 281 of 316
+2018-06-03 15:36:19,929 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:36:20,167 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1936326_562367224418_1353451_n.jpg?_nc_cat=0&oh=e491a85ce4ac180daf66cd82e9d6b4d0&oe=5B80E62D HTTP/1.1" 200 None
+2018-06-03 15:36:20,237 INFO: Saved image 282 of 316
+2018-06-03 15:36:20,241 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:36:26,791 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1935794_562438875828_7343442_n.jpg?_nc_cat=0&oh=06734f8cc35d41e0ddfa7e0c67a7fdce&oe=5B817412 HTTP/1.1" 200 None
+2018-06-03 15:36:28,205 INFO: Saved image 283 of 316
+2018-06-03 15:36:28,243 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:36:28,530 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1936326_560798338478_3757019_n.jpg?_nc_cat=0&oh=9a6f6f0e465f4e2a1aa244472d0005c4&oe=5B865FF0 HTTP/1.1" 200 None
+2018-06-03 15:36:28,577 INFO: Saved image 284 of 316
+2018-06-03 15:36:28,579 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:36:28,849 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1936326_560655384958_3368027_n.jpg?_nc_cat=0&oh=34f402dc3e5ce0b37c1129efebd38062&oe=5BB8AB6D HTTP/1.1" 200 None
+2018-06-03 15:36:28,925 INFO: Saved image 285 of 316
+2018-06-03 15:36:28,927 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:36:29,140 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531201810158_1249_n.jpg?_nc_cat=0&oh=7097b9fc42ba9a34811563a5d8aa84b0&oe=5BB33078 HTTP/1.1" 200 None
+2018-06-03 15:36:29,219 INFO: Saved image 286 of 316
+2018-06-03 15:36:29,221 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:36:32,550 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531199345098_4006_n.jpg?_nc_cat=0&oh=a36a97778ad6639e764cd84da6c50f36&oe=5BBC53B8 HTTP/1.1" 200 59353
+2018-06-03 15:36:33,171 INFO: Saved image 287 of 316
+2018-06-03 15:36:33,173 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:36:33,393 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531199330128_3222_n.jpg?_nc_cat=0&oh=a48674453802d3dddb0cb52ac37675df&oe=5BC40002 HTTP/1.1" 200 39706
+2018-06-03 15:36:33,458 INFO: Saved image 288 of 316
+2018-06-03 15:36:33,464 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:36:38,213 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/1865_531194105598_1976_n.jpg?_nc_cat=0&oh=0f958702235d49c96ffd5f37802351cf&oe=5BC37B78 HTTP/1.1" 200 None
+2018-06-03 15:36:39,038 INFO: Saved image 289 of 316
+2018-06-03 15:36:39,042 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:36:39,317 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/229073_509013830048_5174_n.jpg?_nc_cat=0&oh=16c74f57a49d1cb49e950aaf73e749d6&oe=5BC43084 HTTP/1.1" 200 None
+2018-06-03 15:36:39,406 INFO: Saved image 290 of 316
+2018-06-03 15:36:39,409 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:36:42,400 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/227899_509013815078_8189_n.jpg?_nc_cat=0&oh=d6f54469ae0689224e46fc4b6b8a402f&oe=5BBABCB5 HTTP/1.1" 200 None
+2018-06-03 15:36:42,486 INFO: Saved image 291 of 316
+2018-06-03 15:36:42,489 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:36:43,196 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/226229_509013810088_6535_n.jpg?_nc_cat=0&oh=9bd186963e953ba637ac45a8d3447fb5&oe=5BBC9AC7 HTTP/1.1" 200 None
+2018-06-03 15:36:43,525 INFO: Saved image 292 of 316
+2018-06-03 15:36:43,528 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:36:43,902 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/225299_509013800108_5801_n.jpg?_nc_cat=0&oh=60ff798b7ac6456028170b2c2845627c&oe=5B7C7E8A HTTP/1.1" 200 None
+2018-06-03 15:36:44,046 INFO: Saved image 293 of 316
+2018-06-03 15:36:44,049 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:36:44,305 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/226749_509013795118_4825_n.jpg?_nc_cat=0&oh=a99f03bb921a8c8850fc6e2fdae0696b&oe=5BB6D309 HTTP/1.1" 200 None
+2018-06-03 15:36:44,397 INFO: Saved image 294 of 316
+2018-06-03 15:36:44,434 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:36:44,641 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/225739_509013790128_6480_n.jpg?_nc_cat=0&oh=c82a09ab185a8922f6d3069b9bbd4bf1&oe=5BC2A70B HTTP/1.1" 200 None
+2018-06-03 15:36:44,722 INFO: Saved image 295 of 316
+2018-06-03 15:36:44,726 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:36:45,010 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/228129_509013785138_4129_n.jpg?_nc_cat=0&oh=a91cfd2e11de759b46cae0654fa309f0&oe=5BB0EB2C HTTP/1.1" 200 None
+2018-06-03 15:36:45,098 INFO: Saved image 296 of 316
+2018-06-03 15:36:45,100 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:36:45,349 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/228639_509013780148_3541_n.jpg?_nc_cat=0&oh=4e280f5297cea460edbde59811baba64&oe=5B88257B HTTP/1.1" 200 None
+2018-06-03 15:36:45,460 INFO: Saved image 297 of 316
+2018-06-03 15:36:45,463 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:36:52,120 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/226479_509013775158_9153_n.jpg?_nc_cat=0&oh=9c74f37f6d863054d5abcb0998edf648&oe=5B87C1C7 HTTP/1.1" 200 None
+2018-06-03 15:36:54,155 INFO: Saved image 298 of 316
+2018-06-03 15:36:54,193 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:36:54,516 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/230964_509013770168_8046_n.jpg?_nc_cat=0&oh=ae7f74372ca03ee54c22959a73b0310e&oe=5BC19EF7 HTTP/1.1" 200 None
+2018-06-03 15:36:54,612 INFO: Saved image 299 of 316
+2018-06-03 15:36:54,615 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:36:54,853 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/224224_509013765178_7510_n.jpg?_nc_cat=0&oh=6b65395a810ccbb95791b30871a11655&oe=5B865B33 HTTP/1.1" 200 None
+2018-06-03 15:36:54,953 INFO: Saved image 300 of 316
+2018-06-03 15:36:54,956 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:36:55,215 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/230714_509013760188_7019_n.jpg?_nc_cat=0&oh=7a767b85d8bb1619c1e3bc8dc406a423&oe=5BBCE3BD HTTP/1.1" 200 None
+2018-06-03 15:36:55,301 INFO: Saved image 301 of 316
+2018-06-03 15:36:55,303 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:36:57,078 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/225819_509013755198_8542_n.jpg?_nc_cat=0&oh=9a911c5861d94155059ff5b34fe56b97&oe=5BB2B71E HTTP/1.1" 200 None
+2018-06-03 15:36:57,155 INFO: Saved image 302 of 316
+2018-06-03 15:36:57,158 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:36:57,424 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/228139_509013750208_7458_n.jpg?_nc_cat=0&oh=9e58041bb8492b9e85e49ad1dc6f30d5&oe=5B87B09D HTTP/1.1" 200 None
+2018-06-03 15:36:57,513 INFO: Saved image 303 of 316
+2018-06-03 15:36:57,516 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:37:03,439 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/222674_509013745218_5950_n.jpg?_nc_cat=0&oh=a46dbdd44552e58ffb04435e7e097041&oe=5B7FA1C7 HTTP/1.1" 200 None
+2018-06-03 15:37:05,358 INFO: Saved image 304 of 316
+2018-06-03 15:37:05,360 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:37:05,593 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/223389_509013740228_3019_n.jpg?_nc_cat=0&oh=ea9b1b8d081832dbb5744ee964c7bd6f&oe=5BC00A76 HTTP/1.1" 200 None
+2018-06-03 15:37:05,685 INFO: Saved image 305 of 316
+2018-06-03 15:37:05,688 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:37:07,218 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/224099_509013735238_1612_n.jpg?_nc_cat=0&oh=61622e45481e9ba69611cff57bb6a985&oe=5BB9AF47 HTTP/1.1" 200 None
+2018-06-03 15:37:07,832 INFO: Saved image 306 of 316
+2018-06-03 15:37:07,835 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:37:08,328 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/225209_509013730248_4630_n.jpg?_nc_cat=0&oh=f04879c794f8ca701ecaa7846cfcc8cc&oe=5BBAE030 HTTP/1.1" 200 None
+2018-06-03 15:37:08,568 INFO: Saved image 307 of 316
+2018-06-03 15:37:08,570 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:37:09,014 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/221904_509013725258_4051_n.jpg?_nc_cat=0&oh=c7775e8b1066e3e7896b214411f35a16&oe=5BB4FB69 HTTP/1.1" 200 None
+2018-06-03 15:37:09,274 INFO: Saved image 308 of 316
+2018-06-03 15:37:09,276 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:37:09,539 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/227829_509013720268_3551_n.jpg?_nc_cat=0&oh=006585caef5c9f30ffd1e594ce9111c9&oe=5BBDBC38 HTTP/1.1" 200 None
+2018-06-03 15:37:09,647 INFO: Saved image 309 of 316
+2018-06-03 15:37:09,650 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:37:10,097 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/222754_509013715278_3803_n.jpg?_nc_cat=0&oh=d05803bccf69823ad620c35190ebd020&oe=5BC34FDF HTTP/1.1" 200 None
+2018-06-03 15:37:10,263 INFO: Saved image 310 of 316
+2018-06-03 15:37:10,268 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:37:10,642 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/221699_509013710288_4526_n.jpg?_nc_cat=0&oh=39b67c2a976dae40e02c0bde2be93ded&oe=5BBA5ED3 HTTP/1.1" 200 None
+2018-06-03 15:37:10,733 INFO: Saved image 311 of 316
+2018-06-03 15:37:10,736 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:37:11,062 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/224374_509013705298_3760_n.jpg?_nc_cat=0&oh=e515d4d2c37b7fe4e4d6b19128f187a7&oe=5BB5E351 HTTP/1.1" 200 None
+2018-06-03 15:37:11,243 INFO: Saved image 312 of 316
+2018-06-03 15:37:11,245 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:37:18,300 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/221784_509013700308_1693_n.jpg?_nc_cat=0&oh=a18f87fab0d655fadaafe09e27a422c2&oe=5BB521BD HTTP/1.1" 200 None
+2018-06-03 15:37:19,977 INFO: Saved image 313 of 316
+2018-06-03 15:37:19,979 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:37:20,239 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/223284_509013695318_3226_n.jpg?_nc_cat=0&oh=64e8a5553b0f2fb1e7a38f7ba3342c32&oe=5B7697D0 HTTP/1.1" 200 None
+2018-06-03 15:37:20,313 INFO: Saved image 314 of 316
+2018-06-03 15:37:20,315 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:37:20,633 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/223559_509013690328_472_n.jpg?_nc_cat=0&oh=c92631a423f498bca07bfa1c0d45f35a&oe=5B779BDA HTTP/1.1" 200 None
+2018-06-03 15:37:20,725 INFO: Saved image 315 of 316
+2018-06-03 15:37:20,727 DEBUG: Starting new HTTPS connection (1): scontent.xx.fbcdn.net
+2018-06-03 15:37:20,965 DEBUG: https://scontent.xx.fbcdn.net:443 "GET /v/t1.0-9/226214_509013685338_8579_n.jpg?_nc_cat=0&oh=0ce0df8aa81be7bf0418709691167370&oe=5B7FA7FB HTTP/1.1" 200 None
+2018-06-03 15:37:21,050 INFO: Saved image 316 of 316
+2018-06-03 16:07:27,841 INFO: hello world!
+2018-06-03 16:07:32,296 INFO: received ACCCESS_TOKEN from user
+2018-06-03 16:07:32,356 DEBUG: Starting new HTTPS connection (1): graph.facebook.com
+2018-06-03 16:07:32,631 DEBUG: https://graph.facebook.com:443 "GET /v2.1/me?access_token=EAACEdEose0cBAE8xYsCANA5OH6DZCIB37Se7PbwPCPaC4i43HyfprKeiZBZB8DYv3sxatiLm95IL0WzldI0ufXenzZAmLR0Jk7HuKZBQD4Tt2Q8ZAwGY3WX7TlsMFFw7alfoOV9dQzidDtcjDZBgaBXlvgMVSuh9HKlIkxDP0ZB6nv4phE1WMDihxMUTZB5V9giZA0IK1HyPwpAgZDZD HTTP/1.1" 200 50
+2018-06-03 16:07:32,636 INFO: fetching all photos from user
+2018-06-03 16:07:32,639 DEBUG: Starting new HTTPS connection (1): graph.facebook.com
+2018-06-03 16:07:33,381 DEBUG: https://graph.facebook.com:443 "GET /v2.1/me/photos?fields=id,created_time,from,height,width,images,link,webp_images&access_token=EAACEdEose0cBAE8xYsCANA5OH6DZCIB37Se7PbwPCPaC4i43HyfprKeiZBZB8DYv3sxatiLm95IL0WzldI0ufXenzZAmLR0Jk7HuKZBQD4Tt2Q8ZAwGY3WX7TlsMFFw7alfoOV9dQzidDtcjDZBgaBXlvgMVSuh9HKlIkxDP0ZB6nv4phE1WMDihxMUTZB5V9giZA0IK1HyPwpAgZDZD HTTP/1.1" 200 14735
+2018-06-03 16:07:33,425 DEBUG: Starting new HTTPS connection (1): graph.facebook.com
+2018-06-03 16:07:33,998 DEBUG: https://graph.facebook.com:443 "GET /v2.1/me/photos?fields=id,created_time,from,height,width,images,link,webp_images&after=TVRBeE1EQTVNamMzTnpnNE5EQTFOamc2TVRRM01UTTVOVGM0Tnpvek9UUXdPRGsyTkRBMk5EYzRNelk9&access_token=EAACEdEose0cBAE8xYsCANA5OH6DZCIB37Se7PbwPCPaC4i43HyfprKeiZBZB8DYv3sxatiLm95IL0WzldI0ufXenzZAmLR0Jk7HuKZBQD4Tt2Q8ZAwGY3WX7TlsMFFw7alfoOV9dQzidDtcjDZBgaBXlvgMVSuh9HKlIkxDP0ZB6nv4phE1WMDihxMUTZB5V9giZA0IK1HyPwpAgZDZD HTTP/1.1" 200 14665
+2018-06-03 16:07:34,048 DEBUG: Starting new HTTPS connection (1): graph.facebook.com
+2018-06-03 16:07:35,121 DEBUG: https://graph.facebook.com:443 "GET /v2.1/me/photos?fields=id,created_time,from,height,width,images,link,webp_images&after=TVRBeE1EQTJORE0xTXpZAME1qUTJORGc2TVRRek9EWTNOamM1TkRvek9UUXdPRGsyTkRBMk5EYzRNelk9&access_token=EAACEdEose0cBAE8xYsCANA5OH6DZCIB37Se7PbwPCPaC4i43HyfprKeiZBZB8DYv3sxatiLm95IL0WzldI0ufXenzZAmLR0Jk7HuKZBQD4Tt2Q8ZAwGY3WX7TlsMFFw7alfoOV9dQzidDtcjDZBgaBXlvgMVSuh9HKlIkxDP0ZB6nv4phE1WMDihxMUTZB5V9giZA0IK1HyPwpAgZDZD HTTP/1.1" 200 14839
+2018-06-03 16:07:35,163 DEBUG: Starting new HTTPS connection (1): graph.facebook.com
+2018-06-03 16:07:35,518 DEBUG: https://graph.facebook.com:443 "GET /v2.1/me/photos?fields=id,created_time,from,height,width,images,link,webp_images&after=TlRZAMk5EQTJNekV3TURVNE9qRXpOekE0T1RZAMU9UazZANemswTURnNU5qUXdOalEzT0RNMgZDZD&access_token=EAACEdEose0cBAE8xYsCANA5OH6DZCIB37Se7PbwPCPaC4i43HyfprKeiZBZB8DYv3sxatiLm95IL0WzldI0ufXenzZAmLR0Jk7HuKZBQD4Tt2Q8ZAwGY3WX7TlsMFFw7alfoOV9dQzidDtcjDZBgaBXlvgMVSuh9HKlIkxDP0ZB6nv4phE1WMDihxMUTZB5V9giZA0IK1HyPwpAgZDZD HTTP/1.1" 200 11681
+2018-06-03 16:07:35,533 DEBUG: Starting new HTTPS connection (1): graph.facebook.com
+2018-06-03 16:07:35,860 DEBUG: https://graph.facebook.com:443 "GET /v2.1/me/photos?fields=id,created_time,from,height,width,images,link,webp_images&after=TnpRM05qRTNOall4TURVNE9qRXpOekE0T1RZAeU1EYzZANemswTURnNU5qUXdOalEzT0RNMgZDZD&access_token=EAACEdEose0cBAE8xYsCANA5OH6DZCIB37Se7PbwPCPaC4i43HyfprKeiZBZB8DYv3sxatiLm95IL0WzldI0ufXenzZAmLR0Jk7HuKZBQD4Tt2Q8ZAwGY3WX7TlsMFFw7alfoOV9dQzidDtcjDZBgaBXlvgMVSuh9HKlIkxDP0ZB6nv4phE1WMDihxMUTZB5V9giZA0IK1HyPwpAgZDZD HTTP/1.1" 200 9544
+2018-06-03 16:07:35,873 DEBUG: Starting new HTTPS connection (1): graph.facebook.com
+2018-06-03 16:07:36,183 DEBUG: https://graph.facebook.com:443 "GET /v2.1/me/photos?fields=id,created_time,from,height,width,images,link,webp_images&after=TlRNeE1UazVNek0xTVRFNE9qRXpOekE0T1RVNE1ETTZANemswTURnNU5qUXdOalEzT0RNMgZDZD&access_token=EAACEdEose0cBAE8xYsCANA5OH6DZCIB37Se7PbwPCPaC4i43HyfprKeiZBZB8DYv3sxatiLm95IL0WzldI0ufXenzZAmLR0Jk7HuKZBQD4Tt2Q8ZAwGY3WX7TlsMFFw7alfoOV9dQzidDtcjDZBgaBXlvgMVSuh9HKlIkxDP0ZB6nv4phE1WMDihxMUTZB5V9giZA0IK1HyPwpAgZDZD HTTP/1.1" 200 7452
+2018-06-03 16:07:36,194 DEBUG: Starting new HTTPS connection (1): graph.facebook.com
+2018-06-03 16:07:36,504 DEBUG: https://graph.facebook.com:443 "GET /v2.1/me/photos?fields=id,created_time,from,height,width,images,link,webp_images&after=TlRNeE1qQXlNekU1TVRNNE9qRXpOekE0T1RVMU5EZAzZANemswTURnNU5qUXdOalEzT0RNMgZDZD&access_token=EAACEdEose0cBAE8xYsCANA5OH6DZCIB37Se7PbwPCPaC4i43HyfprKeiZBZB8DYv3sxatiLm95IL0WzldI0ufXenzZAmLR0Jk7HuKZBQD4Tt2Q8ZAwGY3WX7TlsMFFw7alfoOV9dQzidDtcjDZBgaBXlvgMVSuh9HKlIkxDP0ZB6nv4phE1WMDihxMUTZB5V9giZA0IK1HyPwpAgZDZD HTTP/1.1" 200 7384
+2018-06-03 16:07:36,514 DEBUG: Starting new HTTPS connection (1): graph.facebook.com
+2018-06-03 16:07:36,835 DEBUG: https://graph.facebook.com:443 "GET /v2.1/me/photos?fields=id,created_time,from,height,width,images,link,webp_images&after=TlRNeE1UWTNPRFl6TVRnNE9qRXpOekE0T1RVek1ETTZANemswTURnNU5qUXdOalEzT0RNMgZDZD&access_token=EAACEdEose0cBAE8xYsCANA5OH6DZCIB37Se7PbwPCPaC4i43HyfprKeiZBZB8DYv3sxatiLm95IL0WzldI0ufXenzZAmLR0Jk7HuKZBQD4Tt2Q8ZAwGY3WX7TlsMFFw7alfoOV9dQzidDtcjDZBgaBXlvgMVSuh9HKlIkxDP0ZB6nv4phE1WMDihxMUTZB5V9giZA0IK1HyPwpAgZDZD HTTP/1.1" 200 7468
+2018-06-03 16:07:36,847 DEBUG: Starting new HTTPS connection (1): graph.facebook.com
+2018-06-03 16:07:37,241 DEBUG: https://graph.facebook.com:443 "GET /v2.1/me/photos?fields=id,created_time,from,height,width,images,link,webp_images&after=TlRNeE1UVTJNRFkyT0RJNE9qRXpOekE0T1RVd01qZAzZANemswTURnNU5qUXdOalEzT0RNMgZDZD&access_token=EAACEdEose0cBAE8xYsCANA5OH6DZCIB37Se7PbwPCPaC4i43HyfprKeiZBZB8DYv3sxatiLm95IL0WzldI0ufXenzZAmLR0Jk7HuKZBQD4Tt2Q8ZAwGY3WX7TlsMFFw7alfoOV9dQzidDtcjDZBgaBXlvgMVSuh9HKlIkxDP0ZB6nv4phE1WMDihxMUTZB5V9giZA0IK1HyPwpAgZDZD HTTP/1.1" 200 7602
+2018-06-03 16:07:37,257 DEBUG: Starting new HTTPS connection (1): graph.facebook.com
+2018-06-03 16:07:37,605 DEBUG: https://graph.facebook.com:443 "GET /v2.1/me/photos?fields=id,created_time,from,height,width,images,link,webp_images&after=TlRNeE1UVTJNakkyTlRBNE9qRXpOekE0T1RRNE1qZAzZANemswTURnNU5qUXdOalEzT0RNMgZDZD&access_token=EAACEdEose0cBAE8xYsCANA5OH6DZCIB37Se7PbwPCPaC4i43HyfprKeiZBZB8DYv3sxatiLm95IL0WzldI0ufXenzZAmLR0Jk7HuKZBQD4Tt2Q8ZAwGY3WX7TlsMFFw7alfoOV9dQzidDtcjDZBgaBXlvgMVSuh9HKlIkxDP0ZB6nv4phE1WMDihxMUTZB5V9giZA0IK1HyPwpAgZDZD HTTP/1.1" 200 7503
+2018-06-03 16:07:37,613 DEBUG: Starting new HTTPS connection (1): graph.facebook.com
+2018-06-03 16:07:39,118 DEBUG: https://graph.facebook.com:443 "GET /v2.1/me/photos?fields=id,created_time,from,height,width,images,link,webp_images&after=TlRZAME16TXpPVGc0TURBNE9qRXpOekEwTmpJM09EVTZANemswTURnNU5qUXdOalEzT0RNMgZDZD&access_token=EAACEdEose0cBAE8xYsCANA5OH6DZCIB37Se7PbwPCPaC4i43HyfprKeiZBZB8DYv3sxatiLm95IL0WzldI0ufXenzZAmLR0Jk7HuKZBQD4Tt2Q8ZAwGY3WX7TlsMFFw7alfoOV9dQzidDtcjDZBgaBXlvgMVSuh9HKlIkxDP0ZB6nv4phE1WMDihxMUTZB5V9giZA0IK1HyPwpAgZDZD HTTP/1.1" 200 11702
+2018-06-03 16:07:39,130 DEBUG: Starting new HTTPS connection (1): graph.facebook.com
+2018-06-03 16:07:39,833 DEBUG: https://graph.facebook.com:443 "GET /v2.1/me/photos?fields=id,created_time,from,height,width,images,link,webp_images&after=TlRZAd01EUTVORFEwTWpZANE9qRXlOVFUwTURVd01qTTZANemswTURnNU5qUXdOalEzT0RNMgZDZD&access_token=EAACEdEose0cBAE8xYsCANA5OH6DZCIB37Se7PbwPCPaC4i43HyfprKeiZBZB8DYv3sxatiLm95IL0WzldI0ufXenzZAmLR0Jk7HuKZBQD4Tt2Q8ZAwGY3WX7TlsMFFw7alfoOV9dQzidDtcjDZBgaBXlvgMVSuh9HKlIkxDP0ZB6nv4phE1WMDihxMUTZB5V9giZA0IK1HyPwpAgZDZD HTTP/1.1" 200 8006
+2018-06-03 16:07:39,847 DEBUG: Starting new HTTPS connection (1): graph.facebook.com
+2018-06-03 16:07:40,151 DEBUG: https://graph.facebook.com:443 "GET /v2.1/me/photos?fields=id,created_time,from,height,width,images,link,webp_images&after=TlRBNU1ERXpOelkxTVRjNE9qRXhORGMzTkRFNE5qYzZANemswTURnNU5qUXdOalEzT0RNMgZDZD&access_token=EAACEdEose0cBAE8xYsCANA5OH6DZCIB37Se7PbwPCPaC4i43HyfprKeiZBZB8DYv3sxatiLm95IL0WzldI0ufXenzZAmLR0Jk7HuKZBQD4Tt2Q8ZAwGY3WX7TlsMFFw7alfoOV9dQzidDtcjDZBgaBXlvgMVSuh9HKlIkxDP0ZB6nv4phE1WMDihxMUTZB5V9giZA0IK1HyPwpAgZDZD HTTP/1.1" 200 5112
+2018-06-03 16:07:40,156 INFO: fetching complete. found 316 photos
+2018-06-03 16:09:11,814 INFO: hello world!
+2018-06-03 16:09:16,023 INFO: received ACCCESS_TOKEN from user
+2018-06-03 16:09:16,075 DEBUG: Starting new HTTPS connection (1): graph.facebook.com
+2018-06-03 16:09:16,326 DEBUG: https://graph.facebook.com:443 "GET /v2.1/me?access_token=EAACEdEose0cBAE8xYsCANA5OH6DZCIB37Se7PbwPCPaC4i43HyfprKeiZBZB8DYv3sxatiLm95IL0WzldI0ufXenzZAmLR0Jk7HuKZBQD4Tt2Q8ZAwGY3WX7TlsMFFw7alfoOV9dQzidDtcjDZBgaBXlvgMVSuh9HKlIkxDP0ZB6nv4phE1WMDihxMUTZB5V9giZA0IK1HyPwpAgZDZD HTTP/1.1" 200 50
+2018-06-03 16:09:16,329 INFO: fetching all photos from user
+2018-06-03 16:09:16,331 DEBUG: Starting new HTTPS connection (1): graph.facebook.com
+2018-06-03 16:09:17,008 DEBUG: https://graph.facebook.com:443 "GET /v2.1/me/photos?fields=id,created_time,from,height,width,images,link,webp_images&access_token=EAACEdEose0cBAE8xYsCANA5OH6DZCIB37Se7PbwPCPaC4i43HyfprKeiZBZB8DYv3sxatiLm95IL0WzldI0ufXenzZAmLR0Jk7HuKZBQD4Tt2Q8ZAwGY3WX7TlsMFFw7alfoOV9dQzidDtcjDZBgaBXlvgMVSuh9HKlIkxDP0ZB6nv4phE1WMDihxMUTZB5V9giZA0IK1HyPwpAgZDZD HTTP/1.1" 200 14735
+2018-06-03 16:09:17,048 DEBUG: Starting new HTTPS connection (1): graph.facebook.com
+2018-06-03 16:09:17,476 DEBUG: https://graph.facebook.com:443 "GET /v2.1/me/photos?fields=id,created_time,from,height,width,images,link,webp_images&after=TVRBeE1EQTVNamMzTnpnNE5EQTFOamc2TVRRM01UTTVOVGM0Tnpvek9UUXdPRGsyTkRBMk5EYzRNelk9&access_token=EAACEdEose0cBAE8xYsCANA5OH6DZCIB37Se7PbwPCPaC4i43HyfprKeiZBZB8DYv3sxatiLm95IL0WzldI0ufXenzZAmLR0Jk7HuKZBQD4Tt2Q8ZAwGY3WX7TlsMFFw7alfoOV9dQzidDtcjDZBgaBXlvgMVSuh9HKlIkxDP0ZB6nv4phE1WMDihxMUTZB5V9giZA0IK1HyPwpAgZDZD HTTP/1.1" 200 14665
+2018-06-03 16:09:17,526 DEBUG: Starting new HTTPS connection (1): graph.facebook.com
+2018-06-03 16:09:18,441 DEBUG: https://graph.facebook.com:443 "GET /v2.1/me/photos?fields=id,created_time,from,height,width,images,link,webp_images&after=TVRBeE1EQTJORE0xTXpZAME1qUTJORGc2TVRRek9EWTNOamM1TkRvek9UUXdPRGsyTkRBMk5EYzRNelk9&access_token=EAACEdEose0cBAE8xYsCANA5OH6DZCIB37Se7PbwPCPaC4i43HyfprKeiZBZB8DYv3sxatiLm95IL0WzldI0ufXenzZAmLR0Jk7HuKZBQD4Tt2Q8ZAwGY3WX7TlsMFFw7alfoOV9dQzidDtcjDZBgaBXlvgMVSuh9HKlIkxDP0ZB6nv4phE1WMDihxMUTZB5V9giZA0IK1HyPwpAgZDZD HTTP/1.1" 200 14839
+2018-06-03 16:09:18,479 DEBUG: Starting new HTTPS connection (1): graph.facebook.com
+2018-06-03 16:09:19,158 DEBUG: https://graph.facebook.com:443 "GET /v2.1/me/photos?fields=id,created_time,from,height,width,images,link,webp_images&after=TlRZAMk5EQTJNekV3TURVNE9qRXpOekE0T1RZAMU9UazZANemswTURnNU5qUXdOalEzT0RNMgZDZD&access_token=EAACEdEose0cBAE8xYsCANA5OH6DZCIB37Se7PbwPCPaC4i43HyfprKeiZBZB8DYv3sxatiLm95IL0WzldI0ufXenzZAmLR0Jk7HuKZBQD4Tt2Q8ZAwGY3WX7TlsMFFw7alfoOV9dQzidDtcjDZBgaBXlvgMVSuh9HKlIkxDP0ZB6nv4phE1WMDihxMUTZB5V9giZA0IK1HyPwpAgZDZD HTTP/1.1" 200 11681
+2018-06-03 16:09:19,172 DEBUG: Starting new HTTPS connection (1): graph.facebook.com
+2018-06-03 16:09:19,492 DEBUG: https://graph.facebook.com:443 "GET /v2.1/me/photos?fields=id,created_time,from,height,width,images,link,webp_images&after=TnpRM05qRTNOall4TURVNE9qRXpOekE0T1RZAeU1EYzZANemswTURnNU5qUXdOalEzT0RNMgZDZD&access_token=EAACEdEose0cBAE8xYsCANA5OH6DZCIB37Se7PbwPCPaC4i43HyfprKeiZBZB8DYv3sxatiLm95IL0WzldI0ufXenzZAmLR0Jk7HuKZBQD4Tt2Q8ZAwGY3WX7TlsMFFw7alfoOV9dQzidDtcjDZBgaBXlvgMVSuh9HKlIkxDP0ZB6nv4phE1WMDihxMUTZB5V9giZA0IK1HyPwpAgZDZD HTTP/1.1" 200 9544
+2018-06-03 16:09:19,502 DEBUG: Starting new HTTPS connection (1): graph.facebook.com
+2018-06-03 16:09:19,829 DEBUG: https://graph.facebook.com:443 "GET /v2.1/me/photos?fields=id,created_time,from,height,width,images,link,webp_images&after=TlRNeE1UazVNek0xTVRFNE9qRXpOekE0T1RVNE1ETTZANemswTURnNU5qUXdOalEzT0RNMgZDZD&access_token=EAACEdEose0cBAE8xYsCANA5OH6DZCIB37Se7PbwPCPaC4i43HyfprKeiZBZB8DYv3sxatiLm95IL0WzldI0ufXenzZAmLR0Jk7HuKZBQD4Tt2Q8ZAwGY3WX7TlsMFFw7alfoOV9dQzidDtcjDZBgaBXlvgMVSuh9HKlIkxDP0ZB6nv4phE1WMDihxMUTZB5V9giZA0IK1HyPwpAgZDZD HTTP/1.1" 200 7452
+2018-06-03 16:09:19,837 DEBUG: Starting new HTTPS connection (1): graph.facebook.com
+2018-06-03 16:09:20,156 DEBUG: https://graph.facebook.com:443 "GET /v2.1/me/photos?fields=id,created_time,from,height,width,images,link,webp_images&after=TlRNeE1qQXlNekU1TVRNNE9qRXpOekE0T1RVMU5EZAzZANemswTURnNU5qUXdOalEzT0RNMgZDZD&access_token=EAACEdEose0cBAE8xYsCANA5OH6DZCIB37Se7PbwPCPaC4i43HyfprKeiZBZB8DYv3sxatiLm95IL0WzldI0ufXenzZAmLR0Jk7HuKZBQD4Tt2Q8ZAwGY3WX7TlsMFFw7alfoOV9dQzidDtcjDZBgaBXlvgMVSuh9HKlIkxDP0ZB6nv4phE1WMDihxMUTZB5V9giZA0IK1HyPwpAgZDZD HTTP/1.1" 200 7384
+2018-06-03 16:09:20,165 DEBUG: Starting new HTTPS connection (1): graph.facebook.com
+2018-06-03 16:09:20,796 DEBUG: https://graph.facebook.com:443 "GET /v2.1/me/photos?fields=id,created_time,from,height,width,images,link,webp_images&after=TlRNeE1UWTNPRFl6TVRnNE9qRXpOekE0T1RVek1ETTZANemswTURnNU5qUXdOalEzT0RNMgZDZD&access_token=EAACEdEose0cBAE8xYsCANA5OH6DZCIB37Se7PbwPCPaC4i43HyfprKeiZBZB8DYv3sxatiLm95IL0WzldI0ufXenzZAmLR0Jk7HuKZBQD4Tt2Q8ZAwGY3WX7TlsMFFw7alfoOV9dQzidDtcjDZBgaBXlvgMVSuh9HKlIkxDP0ZB6nv4phE1WMDihxMUTZB5V9giZA0IK1HyPwpAgZDZD HTTP/1.1" 200 7468
+2018-06-03 16:09:20,806 DEBUG: Starting new HTTPS connection (1): graph.facebook.com
+2018-06-03 16:09:21,513 DEBUG: https://graph.facebook.com:443 "GET /v2.1/me/photos?fields=id,created_time,from,height,width,images,link,webp_images&after=TlRNeE1UVTJNRFkyT0RJNE9qRXpOekE0T1RVd01qZAzZANemswTURnNU5qUXdOalEzT0RNMgZDZD&access_token=EAACEdEose0cBAE8xYsCANA5OH6DZCIB37Se7PbwPCPaC4i43HyfprKeiZBZB8DYv3sxatiLm95IL0WzldI0ufXenzZAmLR0Jk7HuKZBQD4Tt2Q8ZAwGY3WX7TlsMFFw7alfoOV9dQzidDtcjDZBgaBXlvgMVSuh9HKlIkxDP0ZB6nv4phE1WMDihxMUTZB5V9giZA0IK1HyPwpAgZDZD HTTP/1.1" 200 7602
+2018-06-03 16:09:21,524 DEBUG: Starting new HTTPS connection (1): graph.facebook.com
+2018-06-03 16:09:21,844 DEBUG: https://graph.facebook.com:443 "GET /v2.1/me/photos?fields=id,created_time,from,height,width,images,link,webp_images&after=TlRNeE1UVTJNakkyTlRBNE9qRXpOekE0T1RRNE1qZAzZANemswTURnNU5qUXdOalEzT0RNMgZDZD&access_token=EAACEdEose0cBAE8xYsCANA5OH6DZCIB37Se7PbwPCPaC4i43HyfprKeiZBZB8DYv3sxatiLm95IL0WzldI0ufXenzZAmLR0Jk7HuKZBQD4Tt2Q8ZAwGY3WX7TlsMFFw7alfoOV9dQzidDtcjDZBgaBXlvgMVSuh9HKlIkxDP0ZB6nv4phE1WMDihxMUTZB5V9giZA0IK1HyPwpAgZDZD HTTP/1.1" 200 7503
+2018-06-03 16:09:21,856 DEBUG: Starting new HTTPS connection (1): graph.facebook.com
+2018-06-03 16:09:22,964 DEBUG: https://graph.facebook.com:443 "GET /v2.1/me/photos?fields=id,created_time,from,height,width,images,link,webp_images&after=TlRZAME16TXpPVGc0TURBNE9qRXpOekEwTmpJM09EVTZANemswTURnNU5qUXdOalEzT0RNMgZDZD&access_token=EAACEdEose0cBAE8xYsCANA5OH6DZCIB37Se7PbwPCPaC4i43HyfprKeiZBZB8DYv3sxatiLm95IL0WzldI0ufXenzZAmLR0Jk7HuKZBQD4Tt2Q8ZAwGY3WX7TlsMFFw7alfoOV9dQzidDtcjDZBgaBXlvgMVSuh9HKlIkxDP0ZB6nv4phE1WMDihxMUTZB5V9giZA0IK1HyPwpAgZDZD HTTP/1.1" 200 11702
+2018-06-03 16:09:22,977 DEBUG: Starting new HTTPS connection (1): graph.facebook.com
+2018-06-03 16:09:23,564 DEBUG: https://graph.facebook.com:443 "GET /v2.1/me/photos?fields=id,created_time,from,height,width,images,link,webp_images&after=TlRZAd01EUTVORFEwTWpZANE9qRXlOVFUwTURVd01qTTZANemswTURnNU5qUXdOalEzT0RNMgZDZD&access_token=EAACEdEose0cBAE8xYsCANA5OH6DZCIB37Se7PbwPCPaC4i43HyfprKeiZBZB8DYv3sxatiLm95IL0WzldI0ufXenzZAmLR0Jk7HuKZBQD4Tt2Q8ZAwGY3WX7TlsMFFw7alfoOV9dQzidDtcjDZBgaBXlvgMVSuh9HKlIkxDP0ZB6nv4phE1WMDihxMUTZB5V9giZA0IK1HyPwpAgZDZD HTTP/1.1" 200 8006
+2018-06-03 16:09:23,576 DEBUG: Starting new HTTPS connection (1): graph.facebook.com
+2018-06-03 16:09:23,868 DEBUG: https://graph.facebook.com:443 "GET /v2.1/me/photos?fields=id,created_time,from,height,width,images,link,webp_images&after=TlRBNU1ERXpOelkxTVRjNE9qRXhORGMzTkRFNE5qYzZANemswTURnNU5qUXdOalEzT0RNMgZDZD&access_token=EAACEdEose0cBAE8xYsCANA5OH6DZCIB37Se7PbwPCPaC4i43HyfprKeiZBZB8DYv3sxatiLm95IL0WzldI0ufXenzZAmLR0Jk7HuKZBQD4Tt2Q8ZAwGY3WX7TlsMFFw7alfoOV9dQzidDtcjDZBgaBXlvgMVSuh9HKlIkxDP0ZB6nv4phE1WMDihxMUTZB5V9giZA0IK1HyPwpAgZDZD HTTP/1.1" 200 5112
+2018-06-03 16:09:23,875 INFO: fetching complete. found 316 photos
+2018-06-03 16:09:23,875 INFO: goodbye world!
+2018-06-03 16:15:06,709 INFO: hello world!
+2018-06-03 16:15:15,928 INFO: received ACCCESS_TOKEN from user
+2018-06-03 16:15:15,985 DEBUG: Starting new HTTPS connection (1): graph.facebook.com
+2018-06-03 16:15:16,233 DEBUG: https://graph.facebook.com:443 "GET /v2.1/me?access_token=EAACEdEose0cBAE8xYsCANA5OH6DZCIB37Se7PbwPCPaC4i43HyfprKeiZBZB8DYv3sxatiLm95IL0WzldI0ufXenzZAmLR0Jk7HuKZBQD4Tt2Q8ZAwGY3WX7TlsMFFw7alfoOV9dQzidDtcjDZBgaBXlvgMVSuh9HKlIkxDP0ZB6nv4phE1WMDihxMUTZB5V9giZA0IK1HyPwpAgZDZD HTTP/1.1" 200 50
+2018-06-03 16:15:16,236 INFO: fetching all photos from user
+2018-06-03 16:15:16,239 DEBUG: Starting new HTTPS connection (1): graph.facebook.com
+2018-06-03 16:15:21,039 DEBUG: https://graph.facebook.com:443 "GET /v2.1/10100484595748038/photos?fields=id,created_time,from,height,width,images,link,webp_images&access_token=EAACEdEose0cBAE8xYsCANA5OH6DZCIB37Se7PbwPCPaC4i43HyfprKeiZBZB8DYv3sxatiLm95IL0WzldI0ufXenzZAmLR0Jk7HuKZBQD4Tt2Q8ZAwGY3WX7TlsMFFw7alfoOV9dQzidDtcjDZBgaBXlvgMVSuh9HKlIkxDP0ZB6nv4phE1WMDihxMUTZB5V9giZA0IK1HyPwpAgZDZD HTTP/1.1" 200 14735
+2018-06-03 16:15:21,080 DEBUG: Starting new HTTPS connection (1): graph.facebook.com
+2018-06-03 16:15:21,553 DEBUG: https://graph.facebook.com:443 "GET /v2.1/10100484595748038/photos?fields=id,created_time,from,height,width,images,link,webp_images&after=TVRBeE1EQTVNamMzTnpnNE5EQTFOamc2TVRRM01UTTVOVGM0Tnpvek9UUXdPRGsyTkRBMk5EYzRNelk9&access_token=EAACEdEose0cBAE8xYsCANA5OH6DZCIB37Se7PbwPCPaC4i43HyfprKeiZBZB8DYv3sxatiLm95IL0WzldI0ufXenzZAmLR0Jk7HuKZBQD4Tt2Q8ZAwGY3WX7TlsMFFw7alfoOV9dQzidDtcjDZBgaBXlvgMVSuh9HKlIkxDP0ZB6nv4phE1WMDihxMUTZB5V9giZA0IK1HyPwpAgZDZD HTTP/1.1" 200 14664
+2018-06-03 16:15:21,596 DEBUG: Starting new HTTPS connection (1): graph.facebook.com
+2018-06-03 16:15:22,485 DEBUG: https://graph.facebook.com:443 "GET /v2.1/10100484595748038/photos?fields=id,created_time,from,height,width,images,link,webp_images&after=TVRBeE1EQTJORE0xTXpZAME1qUTJORGc2TVRRek9EWTNOamM1TkRvek9UUXdPRGsyTkRBMk5EYzRNelk9&access_token=EAACEdEose0cBAE8xYsCANA5OH6DZCIB37Se7PbwPCPaC4i43HyfprKeiZBZB8DYv3sxatiLm95IL0WzldI0ufXenzZAmLR0Jk7HuKZBQD4Tt2Q8ZAwGY3WX7TlsMFFw7alfoOV9dQzidDtcjDZBgaBXlvgMVSuh9HKlIkxDP0ZB6nv4phE1WMDihxMUTZB5V9giZA0IK1HyPwpAgZDZD HTTP/1.1" 200 14839
+2018-06-03 16:15:22,527 DEBUG: Starting new HTTPS connection (1): graph.facebook.com
+2018-06-03 16:15:22,860 DEBUG: https://graph.facebook.com:443 "GET /v2.1/10100484595748038/photos?fields=id,created_time,from,height,width,images,link,webp_images&after=TlRZAMk5EQTJNekV3TURVNE9qRXpOekE0T1RZAMU9UazZANemswTURnNU5qUXdOalEzT0RNMgZDZD&access_token=EAACEdEose0cBAE8xYsCANA5OH6DZCIB37Se7PbwPCPaC4i43HyfprKeiZBZB8DYv3sxatiLm95IL0WzldI0ufXenzZAmLR0Jk7HuKZBQD4Tt2Q8ZAwGY3WX7TlsMFFw7alfoOV9dQzidDtcjDZBgaBXlvgMVSuh9HKlIkxDP0ZB6nv4phE1WMDihxMUTZB5V9giZA0IK1HyPwpAgZDZD HTTP/1.1" 200 11681
+2018-06-03 16:15:22,886 DEBUG: Starting new HTTPS connection (1): graph.facebook.com
+2018-06-03 16:15:23,238 DEBUG: https://graph.facebook.com:443 "GET /v2.1/10100484595748038/photos?fields=id,created_time,from,height,width,images,link,webp_images&after=TnpRM05qRTNOall4TURVNE9qRXpOekE0T1RZAeU1EYzZANemswTURnNU5qUXdOalEzT0RNMgZDZD&access_token=EAACEdEose0cBAE8xYsCANA5OH6DZCIB37Se7PbwPCPaC4i43HyfprKeiZBZB8DYv3sxatiLm95IL0WzldI0ufXenzZAmLR0Jk7HuKZBQD4Tt2Q8ZAwGY3WX7TlsMFFw7alfoOV9dQzidDtcjDZBgaBXlvgMVSuh9HKlIkxDP0ZB6nv4phE1WMDihxMUTZB5V9giZA0IK1HyPwpAgZDZD HTTP/1.1" 200 9544
+2018-06-03 16:15:23,248 DEBUG: Starting new HTTPS connection (1): graph.facebook.com
+2018-06-03 16:15:23,603 DEBUG: https://graph.facebook.com:443 "GET /v2.1/10100484595748038/photos?fields=id,created_time,from,height,width,images,link,webp_images&after=TlRNeE1UazVNek0xTVRFNE9qRXpOekE0T1RVNE1ETTZANemswTURnNU5qUXdOalEzT0RNMgZDZD&access_token=EAACEdEose0cBAE8xYsCANA5OH6DZCIB37Se7PbwPCPaC4i43HyfprKeiZBZB8DYv3sxatiLm95IL0WzldI0ufXenzZAmLR0Jk7HuKZBQD4Tt2Q8ZAwGY3WX7TlsMFFw7alfoOV9dQzidDtcjDZBgaBXlvgMVSuh9HKlIkxDP0ZB6nv4phE1WMDihxMUTZB5V9giZA0IK1HyPwpAgZDZD HTTP/1.1" 200 7452
+2018-06-03 16:15:23,614 DEBUG: Starting new HTTPS connection (1): graph.facebook.com
+2018-06-03 16:15:23,986 DEBUG: https://graph.facebook.com:443 "GET /v2.1/10100484595748038/photos?fields=id,created_time,from,height,width,images,link,webp_images&after=TlRNeE1qQXlNekU1TVRNNE9qRXpOekE0T1RVMU5EZAzZANemswTURnNU5qUXdOalEzT0RNMgZDZD&access_token=EAACEdEose0cBAE8xYsCANA5OH6DZCIB37Se7PbwPCPaC4i43HyfprKeiZBZB8DYv3sxatiLm95IL0WzldI0ufXenzZAmLR0Jk7HuKZBQD4Tt2Q8ZAwGY3WX7TlsMFFw7alfoOV9dQzidDtcjDZBgaBXlvgMVSuh9HKlIkxDP0ZB6nv4phE1WMDihxMUTZB5V9giZA0IK1HyPwpAgZDZD HTTP/1.1" 200 7384
+2018-06-03 16:15:23,997 DEBUG: Starting new HTTPS connection (1): graph.facebook.com
+2018-06-03 16:15:24,323 DEBUG: https://graph.facebook.com:443 "GET /v2.1/10100484595748038/photos?fields=id,created_time,from,height,width,images,link,webp_images&after=TlRNeE1UWTNPRFl6TVRnNE9qRXpOekE0T1RVek1ETTZANemswTURnNU5qUXdOalEzT0RNMgZDZD&access_token=EAACEdEose0cBAE8xYsCANA5OH6DZCIB37Se7PbwPCPaC4i43HyfprKeiZBZB8DYv3sxatiLm95IL0WzldI0ufXenzZAmLR0Jk7HuKZBQD4Tt2Q8ZAwGY3WX7TlsMFFw7alfoOV9dQzidDtcjDZBgaBXlvgMVSuh9HKlIkxDP0ZB6nv4phE1WMDihxMUTZB5V9giZA0IK1HyPwpAgZDZD HTTP/1.1" 200 7468
+2018-06-03 16:15:24,346 DEBUG: Starting new HTTPS connection (1): graph.facebook.com
+2018-06-03 16:15:24,686 DEBUG: https://graph.facebook.com:443 "GET /v2.1/10100484595748038/photos?fields=id,created_time,from,height,width,images,link,webp_images&after=TlRNeE1UVTJNRFkyT0RJNE9qRXpOekE0T1RVd01qZAzZANemswTURnNU5qUXdOalEzT0RNMgZDZD&access_token=EAACEdEose0cBAE8xYsCANA5OH6DZCIB37Se7PbwPCPaC4i43HyfprKeiZBZB8DYv3sxatiLm95IL0WzldI0ufXenzZAmLR0Jk7HuKZBQD4Tt2Q8ZAwGY3WX7TlsMFFw7alfoOV9dQzidDtcjDZBgaBXlvgMVSuh9HKlIkxDP0ZB6nv4phE1WMDihxMUTZB5V9giZA0IK1HyPwpAgZDZD HTTP/1.1" 200 7602
+2018-06-03 16:15:24,700 DEBUG: Starting new HTTPS connection (1): graph.facebook.com
+2018-06-03 16:15:25,171 DEBUG: https://graph.facebook.com:443 "GET /v2.1/10100484595748038/photos?fields=id,created_time,from,height,width,images,link,webp_images&after=TlRNeE1UVTJNakkyTlRBNE9qRXpOekE0T1RRNE1qZAzZANemswTURnNU5qUXdOalEzT0RNMgZDZD&access_token=EAACEdEose0cBAE8xYsCANA5OH6DZCIB37Se7PbwPCPaC4i43HyfprKeiZBZB8DYv3sxatiLm95IL0WzldI0ufXenzZAmLR0Jk7HuKZBQD4Tt2Q8ZAwGY3WX7TlsMFFw7alfoOV9dQzidDtcjDZBgaBXlvgMVSuh9HKlIkxDP0ZB6nv4phE1WMDihxMUTZB5V9giZA0IK1HyPwpAgZDZD HTTP/1.1" 200 7503
+2018-06-03 16:15:25,181 DEBUG: Starting new HTTPS connection (1): graph.facebook.com
+2018-06-03 16:15:26,471 DEBUG: https://graph.facebook.com:443 "GET /v2.1/10100484595748038/photos?fields=id,created_time,from,height,width,images,link,webp_images&after=TlRZAME16TXpPVGc0TURBNE9qRXpOekEwTmpJM09EVTZANemswTURnNU5qUXdOalEzT0RNMgZDZD&access_token=EAACEdEose0cBAE8xYsCANA5OH6DZCIB37Se7PbwPCPaC4i43HyfprKeiZBZB8DYv3sxatiLm95IL0WzldI0ufXenzZAmLR0Jk7HuKZBQD4Tt2Q8ZAwGY3WX7TlsMFFw7alfoOV9dQzidDtcjDZBgaBXlvgMVSuh9HKlIkxDP0ZB6nv4phE1WMDihxMUTZB5V9giZA0IK1HyPwpAgZDZD HTTP/1.1" 200 11702
+2018-06-03 16:15:26,482 DEBUG: Starting new HTTPS connection (1): graph.facebook.com
+2018-06-03 16:15:27,189 DEBUG: https://graph.facebook.com:443 "GET /v2.1/10100484595748038/photos?fields=id,created_time,from,height,width,images,link,webp_images&after=TlRZAd01EUTVORFEwTWpZANE9qRXlOVFUwTURVd01qTTZANemswTURnNU5qUXdOalEzT0RNMgZDZD&access_token=EAACEdEose0cBAE8xYsCANA5OH6DZCIB37Se7PbwPCPaC4i43HyfprKeiZBZB8DYv3sxatiLm95IL0WzldI0ufXenzZAmLR0Jk7HuKZBQD4Tt2Q8ZAwGY3WX7TlsMFFw7alfoOV9dQzidDtcjDZBgaBXlvgMVSuh9HKlIkxDP0ZB6nv4phE1WMDihxMUTZB5V9giZA0IK1HyPwpAgZDZD HTTP/1.1" 200 8006
+2018-06-03 16:15:27,200 DEBUG: Starting new HTTPS connection (1): graph.facebook.com
+2018-06-03 16:15:27,520 DEBUG: https://graph.facebook.com:443 "GET /v2.1/10100484595748038/photos?fields=id,created_time,from,height,width,images,link,webp_images&after=TlRBNU1ERXpOelkxTVRjNE9qRXhORGMzTkRFNE5qYzZANemswTURnNU5qUXdOalEzT0RNMgZDZD&access_token=EAACEdEose0cBAE8xYsCANA5OH6DZCIB37Se7PbwPCPaC4i43HyfprKeiZBZB8DYv3sxatiLm95IL0WzldI0ufXenzZAmLR0Jk7HuKZBQD4Tt2Q8ZAwGY3WX7TlsMFFw7alfoOV9dQzidDtcjDZBgaBXlvgMVSuh9HKlIkxDP0ZB6nv4phE1WMDihxMUTZB5V9giZA0IK1HyPwpAgZDZD HTTP/1.1" 200 5112
+2018-06-03 16:15:27,526 INFO: fetching complete. found 316 photos
+2018-06-03 16:15:27,527 INFO: goodbye world!
